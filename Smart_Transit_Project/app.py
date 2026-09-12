@@ -9,7 +9,10 @@ st.set_page_config(
 st.title("Smart Transit Load Balancer")
 st.write("Big Data Analytics and Cloud Computing Project")
 
-data = pd.read_csv("final_transit_data.csv")
+from pathlib import Path
+
+csv_path = Path(__file__).parent / "final_transit_data.csv"
+data = pd.read_csv(csv_path)
 
 # Summary values
 total_records = len(data)

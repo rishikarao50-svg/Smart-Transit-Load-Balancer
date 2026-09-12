@@ -1,0 +1,1001 @@
+Route_ID,Bus_ID,Date,Time,Passenger_Count,Bus_Capacity,Traffic_Level,Load_Percentage,Load_Status,Recommendation,Cluster,Demand_Level
+R2,B101,2026-09-06,10:30,32,50,Low,64.0,Normal,No action required,2,Medium Demand
+R2,B119,2026-09-01,21:30,15,55,Low,27.27272727272727,Low Load,Reduce bus frequency,0,Low Demand
+R9,B120,2026-09-13,04:30,22,40,Low,55.00000000000001,Normal,No action required,0,Low Demand
+R10,B109,2026-09-04,15:00,18,40,Medium,45.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B107,2026-09-03,09:30,44,50,Low,88.0,High Load,Consider adding a bus,1,High Demand
+R1,B115,2026-09-03,21:00,30,60,High,50.0,Normal,No action required,0,Low Demand
+R9,B110,2026-09-08,22:30,39,60,Medium,65.0,Normal,No action required,2,Medium Demand
+R5,B103,2026-09-03,09:00,39,45,Medium,86.66666666666667,High Load,Consider adding a bus,2,Medium Demand
+R6,B106,2026-09-08,19:00,45,50,Medium,90.0,High Load,Consider adding a bus,1,High Demand
+R10,B106,2026-09-06,10:30,27,60,Low,45.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B108,2026-09-02,10:00,32,50,Medium,64.0,Normal,No action required,2,Medium Demand
+R4,B119,2026-09-05,18:00,46,50,High,92.0,High Load,Consider adding a bus,1,High Demand
+R8,B105,2026-09-04,04:30,29,50,Low,57.99999999999999,Normal,No action required,2,Medium Demand
+R10,B113,2026-09-05,21:30,21,50,High,42.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B103,2026-09-03,13:30,12,40,Low,30.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B113,2026-09-11,05:00,51,60,Medium,85.0,High Load,Consider adding a bus,1,High Demand
+R1,B104,2026-09-06,22:00,32,60,Medium,53.333333333333336,Normal,No action required,2,Medium Demand
+R1,B109,2026-09-05,00:30,25,60,Medium,41.66666666666667,Low Load,Reduce bus frequency,0,Low Demand
+R5,B117,2026-09-05,11:00,34,60,Low,56.666666666666664,Normal,No action required,2,Medium Demand
+R9,B101,2026-09-08,03:00,15,60,Low,25.0,Low Load,Reduce bus frequency,0,Low Demand
+R6,B110,2026-09-02,11:00,31,45,Low,68.88888888888889,Normal,No action required,2,Medium Demand
+R2,B118,2026-09-03,23:00,39,45,Medium,86.66666666666667,High Load,Consider adding a bus,2,Medium Demand
+R3,B109,2026-09-14,04:00,23,60,Low,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R4,B110,2026-09-15,02:00,42,55,Low,76.36363636363637,Normal,No action required,2,Medium Demand
+R8,B104,2026-09-06,00:30,8,45,Low,17.77777777777778,Low Load,Reduce bus frequency,0,Low Demand
+R1,B103,2026-09-06,02:30,13,40,Low,32.5,Low Load,Reduce bus frequency,0,Low Demand
+R6,B103,2026-09-06,07:00,50,60,Medium,83.33333333333334,High Load,Consider adding a bus,1,High Demand
+R10,B119,2026-09-06,09:30,57,55,High,103.63636363636364,Overloaded,Add additional bus immediately,1,High Demand
+R4,B104,2026-09-10,10:00,36,40,Medium,90.0,High Load,Consider adding a bus,2,Medium Demand
+R2,B102,2026-09-08,11:00,17,55,Medium,30.909090909090907,Low Load,Reduce bus frequency,0,Low Demand
+R4,B107,2026-09-10,19:00,41,60,Medium,68.33333333333333,Normal,No action required,2,Medium Demand
+R2,B115,2026-09-03,07:30,70,60,Low,116.66666666666667,Overloaded,Add additional bus immediately,1,High Demand
+R1,B103,2026-09-04,18:30,49,45,High,108.88888888888889,Overloaded,Add additional bus immediately,1,High Demand
+R3,B113,2026-09-09,13:00,27,40,Low,67.5,Normal,No action required,2,Medium Demand
+R8,B110,2026-09-13,02:00,31,55,Medium,56.36363636363636,Normal,No action required,2,Medium Demand
+R1,B119,2026-09-02,12:30,24,60,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R10,B116,2026-09-12,13:00,51,60,Low,85.0,High Load,Consider adding a bus,1,High Demand
+R10,B103,2026-09-09,20:00,50,45,Medium,111.11111111111111,Overloaded,Add additional bus immediately,1,High Demand
+R4,B119,2026-09-02,01:30,27,60,Medium,45.0,Low Load,Reduce bus frequency,0,Low Demand
+R5,B107,2026-09-06,07:30,34,50,Medium,68.0,Normal,No action required,2,Medium Demand
+R5,B115,2026-09-02,18:30,45,50,Low,90.0,High Load,Consider adding a bus,1,High Demand
+R9,B107,2026-09-06,21:00,24,60,Low,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B108,2026-09-07,07:00,53,50,Medium,106.0,Overloaded,Add additional bus immediately,1,High Demand
+R9,B101,2026-09-07,14:30,12,60,High,20.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B109,2026-09-03,12:00,17,40,Medium,42.5,Low Load,Reduce bus frequency,0,Low Demand
+R6,B107,2026-09-12,00:00,42,50,Low,84.0,High Load,Consider adding a bus,2,Medium Demand
+R1,B103,2026-09-07,03:00,35,55,Low,63.63636363636363,Normal,No action required,2,Medium Demand
+R3,B115,2026-09-10,08:00,56,60,High,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R3,B118,2026-09-09,02:30,19,40,Medium,47.5,Low Load,Reduce bus frequency,0,Low Demand
+R1,B112,2026-09-06,13:00,26,45,Medium,57.77777777777777,Normal,No action required,2,Medium Demand
+R9,B114,2026-09-04,12:30,23,60,High,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R3,B114,2026-09-05,01:00,26,40,Medium,65.0,Normal,No action required,2,Medium Demand
+R7,B108,2026-09-04,15:00,24,50,Medium,48.0,Low Load,Reduce bus frequency,0,Low Demand
+R4,B107,2026-09-08,16:30,36,55,Low,65.45454545454545,Normal,No action required,2,Medium Demand
+R4,B108,2026-09-05,08:00,38,40,Medium,95.0,High Load,Consider adding a bus,1,High Demand
+R6,B117,2026-09-12,16:00,17,55,Low,30.909090909090907,Low Load,Reduce bus frequency,0,Low Demand
+R5,B106,2026-09-06,21:00,30,60,Low,50.0,Normal,No action required,0,Low Demand
+R7,B120,2026-09-03,16:30,45,60,Low,75.0,Normal,No action required,2,Medium Demand
+R5,B102,2026-09-01,06:00,35,55,Medium,63.63636363636363,Normal,No action required,2,Medium Demand
+R4,B112,2026-09-02,17:00,55,55,High,100.0,High Load,Consider adding a bus,1,High Demand
+R10,B111,2026-09-07,15:00,24,40,Medium,60.0,Normal,No action required,0,Low Demand
+R9,B105,2026-09-10,04:30,23,45,Medium,51.11111111111111,Normal,No action required,0,Low Demand
+R3,B120,2026-09-07,15:30,49,60,Low,81.66666666666667,High Load,Consider adding a bus,1,High Demand
+R10,B120,2026-09-11,03:30,35,50,Low,70.0,Normal,No action required,2,Medium Demand
+R9,B116,2026-09-03,00:30,26,45,Low,57.77777777777777,Normal,No action required,2,Medium Demand
+R4,B110,2026-09-05,11:00,12,45,Low,26.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R8,B120,2026-09-10,22:30,27,40,Low,67.5,Normal,No action required,2,Medium Demand
+R8,B113,2026-09-04,09:00,36,45,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R2,B114,2026-09-04,23:30,26,45,Medium,57.77777777777777,Normal,No action required,2,Medium Demand
+R2,B115,2026-09-11,03:00,39,45,Medium,86.66666666666667,High Load,Consider adding a bus,2,Medium Demand
+R10,B111,2026-09-14,07:00,55,55,High,100.0,High Load,Consider adding a bus,1,High Demand
+R8,B106,2026-09-10,19:30,48,55,Medium,87.27272727272727,High Load,Consider adding a bus,1,High Demand
+R5,B117,2026-09-14,14:00,25,55,Low,45.45454545454545,Low Load,Reduce bus frequency,0,Low Demand
+R6,B111,2026-09-02,22:30,21,60,Low,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B107,2026-09-10,01:30,24,40,Low,60.0,Normal,No action required,0,Low Demand
+R7,B113,2026-09-01,15:30,48,60,Medium,80.0,High Load,Consider adding a bus,1,High Demand
+R7,B116,2026-09-08,17:30,43,40,Medium,107.5,Overloaded,Add additional bus immediately,1,High Demand
+R9,B118,2026-09-05,22:00,18,60,Low,30.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B101,2026-09-08,09:30,57,55,High,103.63636363636364,Overloaded,Add additional bus immediately,1,High Demand
+R3,B120,2026-09-01,19:00,57,60,High,95.0,High Load,Consider adding a bus,1,High Demand
+R1,B103,2026-09-04,02:30,24,55,Medium,43.63636363636363,Low Load,Reduce bus frequency,0,Low Demand
+R8,B111,2026-09-09,07:30,59,50,Medium,118.0,Overloaded,Add additional bus immediately,1,High Demand
+R7,B109,2026-09-11,06:00,29,40,Low,72.5,Normal,No action required,2,Medium Demand
+R2,B102,2026-09-06,12:00,10,40,Low,25.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B108,2026-09-11,07:30,47,45,High,104.44444444444446,Overloaded,Add additional bus immediately,1,High Demand
+R6,B106,2026-09-14,04:00,45,60,High,75.0,Normal,No action required,2,Medium Demand
+R3,B110,2026-09-13,13:30,17,40,Low,42.5,Low Load,Reduce bus frequency,0,Low Demand
+R7,B107,2026-09-13,20:30,21,40,Medium,52.5,Normal,No action required,0,Low Demand
+R2,B110,2026-09-03,19:00,61,60,High,101.66666666666666,Overloaded,Add additional bus immediately,1,High Demand
+R6,B103,2026-09-15,01:00,47,60,Low,78.33333333333333,Normal,No action required,1,High Demand
+R8,B104,2026-09-08,22:30,40,55,Medium,72.72727272727273,Normal,No action required,2,Medium Demand
+R9,B109,2026-09-12,17:00,48,60,High,80.0,High Load,Consider adding a bus,1,High Demand
+R10,B109,2026-09-06,11:00,17,50,Medium,34.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B119,2026-09-09,07:30,54,60,Medium,90.0,High Load,Consider adding a bus,1,High Demand
+R6,B106,2026-09-05,18:00,44,55,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R5,B118,2026-09-12,06:00,14,40,High,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B116,2026-09-06,08:30,59,60,High,98.33333333333333,High Load,Consider adding a bus,1,High Demand
+R2,B110,2026-09-09,20:30,20,45,Medium,44.44444444444444,Low Load,Reduce bus frequency,0,Low Demand
+R10,B112,2026-09-13,00:30,28,55,Medium,50.90909090909091,Normal,No action required,0,Low Demand
+R8,B109,2026-09-06,14:00,31,50,Low,62.0,Normal,No action required,2,Medium Demand
+R6,B104,2026-09-05,04:00,41,60,Low,68.33333333333333,Normal,No action required,2,Medium Demand
+R9,B120,2026-09-03,08:30,43,50,High,86.0,High Load,Consider adding a bus,1,High Demand
+R6,B106,2026-09-01,12:30,17,50,Medium,34.0,Low Load,Reduce bus frequency,0,Low Demand
+R5,B105,2026-09-03,10:00,50,55,High,90.9090909090909,High Load,Consider adding a bus,1,High Demand
+R8,B116,2026-09-08,11:30,19,55,Low,34.54545454545455,Low Load,Reduce bus frequency,0,Low Demand
+R2,B113,2026-09-02,19:00,54,55,High,98.18181818181819,High Load,Consider adding a bus,1,High Demand
+R3,B105,2026-09-07,17:00,51,60,Low,85.0,High Load,Consider adding a bus,1,High Demand
+R10,B120,2026-09-12,09:00,49,45,Medium,108.88888888888889,Overloaded,Add additional bus immediately,1,High Demand
+R5,B119,2026-09-07,17:30,39,55,High,70.9090909090909,Normal,No action required,2,Medium Demand
+R4,B107,2026-09-02,23:00,17,50,Low,34.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B106,2026-09-09,22:30,24,40,Low,60.0,Normal,No action required,0,Low Demand
+R5,B115,2026-09-06,05:00,29,40,High,72.5,Normal,No action required,2,Medium Demand
+R10,B107,2026-09-03,16:00,40,55,Medium,72.72727272727273,Normal,No action required,2,Medium Demand
+R2,B102,2026-09-07,18:30,45,45,High,100.0,High Load,Consider adding a bus,1,High Demand
+R5,B115,2026-09-11,05:00,28,40,Medium,70.0,Normal,No action required,2,Medium Demand
+R8,B115,2026-09-13,23:30,19,40,Low,47.5,Low Load,Reduce bus frequency,0,Low Demand
+R6,B120,2026-09-01,18:30,59,50,Low,118.0,Overloaded,Add additional bus immediately,1,High Demand
+R1,B109,2026-09-02,02:00,23,60,Medium,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R9,B115,2026-09-05,02:00,26,50,High,52.0,Normal,No action required,0,Low Demand
+R8,B112,2026-09-08,08:00,34,55,Medium,61.81818181818181,Normal,No action required,2,Medium Demand
+R3,B111,2026-09-11,19:00,68,55,Medium,123.63636363636363,Overloaded,Add additional bus immediately,1,High Demand
+R8,B103,2026-09-06,14:30,38,50,Low,76.0,Normal,No action required,2,Medium Demand
+R7,B117,2026-09-12,19:00,28,40,High,70.0,Normal,No action required,2,Medium Demand
+R8,B115,2026-09-05,13:30,13,40,Low,32.5,Low Load,Reduce bus frequency,0,Low Demand
+R5,B115,2026-09-03,19:30,53,55,Low,96.36363636363636,High Load,Consider adding a bus,1,High Demand
+R5,B118,2026-09-13,00:00,9,40,Low,22.5,Low Load,Reduce bus frequency,0,Low Demand
+R2,B115,2026-09-15,01:00,21,40,Medium,52.5,Normal,No action required,0,Low Demand
+R5,B114,2026-09-11,07:00,46,55,Medium,83.63636363636363,High Load,Consider adding a bus,1,High Demand
+R7,B107,2026-09-12,01:30,29,60,Medium,48.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R7,B111,2026-09-06,22:00,32,60,Medium,53.333333333333336,Normal,No action required,2,Medium Demand
+R5,B119,2026-09-11,16:00,25,60,Medium,41.66666666666667,Low Load,Reduce bus frequency,0,Low Demand
+R9,B113,2026-09-08,02:00,44,55,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R4,B119,2026-09-06,05:00,26,55,Medium,47.27272727272727,Low Load,Reduce bus frequency,0,Low Demand
+R7,B113,2026-09-11,19:00,41,45,High,91.11111111111111,High Load,Consider adding a bus,1,High Demand
+R10,B111,2026-09-10,14:30,34,40,Low,85.0,High Load,Consider adding a bus,2,Medium Demand
+R3,B103,2026-09-06,21:00,41,55,Low,74.54545454545455,Normal,No action required,2,Medium Demand
+R2,B111,2026-09-09,08:00,62,60,High,103.33333333333334,Overloaded,Add additional bus immediately,1,High Demand
+R9,B102,2026-09-02,16:30,34,60,Low,56.666666666666664,Normal,No action required,2,Medium Demand
+R5,B108,2026-09-10,11:30,26,40,High,65.0,Normal,No action required,2,Medium Demand
+R3,B110,2026-09-02,05:00,13,40,Low,32.5,Low Load,Reduce bus frequency,0,Low Demand
+R6,B112,2026-09-04,08:00,48,55,Medium,87.27272727272727,High Load,Consider adding a bus,1,High Demand
+R3,B103,2026-09-09,09:00,52,60,High,86.66666666666667,High Load,Consider adding a bus,1,High Demand
+R10,B105,2026-09-11,01:30,20,45,Medium,44.44444444444444,Low Load,Reduce bus frequency,0,Low Demand
+R8,B110,2026-09-04,14:00,43,60,Low,71.66666666666667,Normal,No action required,2,Medium Demand
+R10,B110,2026-09-06,13:30,30,55,Low,54.54545454545454,Normal,No action required,2,Medium Demand
+R2,B108,2026-09-13,10:00,46,55,Medium,83.63636363636363,High Load,Consider adding a bus,1,High Demand
+R5,B101,2026-09-07,02:00,41,55,Low,74.54545454545455,Normal,No action required,2,Medium Demand
+R10,B116,2026-09-06,03:00,15,50,Medium,30.0,Low Load,Reduce bus frequency,0,Low Demand
+R4,B120,2026-09-04,03:30,38,50,Medium,76.0,Normal,No action required,2,Medium Demand
+R8,B102,2026-09-09,00:00,16,60,Medium,26.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R5,B111,2026-09-04,23:00,39,55,Low,70.9090909090909,Normal,No action required,2,Medium Demand
+R9,B109,2026-09-06,17:00,46,45,High,102.22222222222221,Overloaded,Add additional bus immediately,1,High Demand
+R5,B111,2026-09-11,05:00,17,40,High,42.5,Low Load,Reduce bus frequency,0,Low Demand
+R7,B118,2026-09-03,03:30,16,50,Medium,32.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B104,2026-09-09,02:00,28,55,Medium,50.90909090909091,Normal,No action required,0,Low Demand
+R6,B104,2026-09-11,06:30,32,45,Low,71.11111111111111,Normal,No action required,2,Medium Demand
+R9,B111,2026-09-05,22:30,30,60,Medium,50.0,Normal,No action required,0,Low Demand
+R7,B104,2026-09-02,04:30,24,45,High,53.333333333333336,Normal,No action required,0,Low Demand
+R8,B104,2026-09-06,05:30,9,40,Medium,22.5,Low Load,Reduce bus frequency,0,Low Demand
+R9,B114,2026-09-04,12:30,37,60,Medium,61.66666666666667,Normal,No action required,2,Medium Demand
+R8,B120,2026-09-07,04:30,19,55,Low,34.54545454545455,Low Load,Reduce bus frequency,0,Low Demand
+R6,B104,2026-09-12,20:00,52,50,High,104.0,Overloaded,Add additional bus immediately,1,High Demand
+R1,B113,2026-09-05,06:30,46,50,High,92.0,High Load,Consider adding a bus,1,High Demand
+R4,B120,2026-09-02,07:00,31,40,High,77.5,Normal,No action required,2,Medium Demand
+R3,B119,2026-09-02,16:30,25,45,Medium,55.55555555555556,Normal,No action required,0,Low Demand
+R4,B111,2026-09-13,22:30,32,45,Low,71.11111111111111,Normal,No action required,2,Medium Demand
+R3,B105,2026-09-06,13:30,25,60,Medium,41.66666666666667,Low Load,Reduce bus frequency,0,Low Demand
+R6,B108,2026-09-08,03:00,23,60,Low,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R3,B114,2026-09-03,15:30,38,60,Medium,63.33333333333333,Normal,No action required,2,Medium Demand
+R2,B115,2026-09-05,22:30,13,60,High,21.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R9,B110,2026-09-14,22:30,10,55,High,18.181818181818183,Low Load,Reduce bus frequency,0,Low Demand
+R2,B116,2026-09-02,19:00,47,55,High,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R3,B103,2026-09-07,02:00,30,45,Medium,66.66666666666666,Normal,No action required,2,Medium Demand
+R10,B117,2026-09-10,21:30,23,50,Medium,46.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B118,2026-09-10,09:30,34,45,High,75.55555555555556,Normal,No action required,2,Medium Demand
+R7,B104,2026-09-10,08:00,48,50,Medium,96.0,High Load,Consider adding a bus,1,High Demand
+R3,B116,2026-09-03,04:00,19,40,Medium,47.5,Low Load,Reduce bus frequency,0,Low Demand
+R3,B118,2026-09-13,17:30,44,40,High,110.00000000000001,Overloaded,Add additional bus immediately,1,High Demand
+R2,B114,2026-09-10,06:00,38,50,Medium,76.0,Normal,No action required,2,Medium Demand
+R6,B104,2026-09-12,01:00,38,60,Low,63.33333333333333,Normal,No action required,2,Medium Demand
+R4,B104,2026-09-13,02:00,31,50,Low,62.0,Normal,No action required,2,Medium Demand
+R9,B120,2026-09-14,22:30,31,60,Medium,51.66666666666667,Normal,No action required,2,Medium Demand
+R5,B101,2026-09-07,01:00,17,45,Medium,37.77777777777778,Low Load,Reduce bus frequency,0,Low Demand
+R3,B119,2026-09-02,17:00,59,55,Medium,107.27272727272728,Overloaded,Add additional bus immediately,1,High Demand
+R1,B103,2026-09-05,19:30,60,60,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R6,B119,2026-09-03,00:30,23,60,Medium,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R10,B102,2026-09-07,00:30,18,40,Low,45.0,Low Load,Reduce bus frequency,0,Low Demand
+R4,B117,2026-09-08,14:00,15,40,Low,37.5,Low Load,Reduce bus frequency,0,Low Demand
+R10,B116,2026-09-07,19:00,52,60,Low,86.66666666666667,High Load,Consider adding a bus,1,High Demand
+R5,B107,2026-09-06,16:00,12,45,Low,26.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R8,B114,2026-09-03,23:30,25,45,Low,55.55555555555556,Normal,No action required,0,Low Demand
+R6,B103,2026-09-02,03:00,29,55,Low,52.72727272727272,Normal,No action required,2,Medium Demand
+R2,B111,2026-09-10,09:00,60,60,High,100.0,High Load,Consider adding a bus,1,High Demand
+R1,B111,2026-09-14,09:30,50,45,High,111.11111111111111,Overloaded,Add additional bus immediately,1,High Demand
+R6,B103,2026-09-03,11:30,30,55,Low,54.54545454545454,Normal,No action required,2,Medium Demand
+R5,B111,2026-09-08,08:00,30,45,High,66.66666666666666,Normal,No action required,2,Medium Demand
+R2,B117,2026-09-05,08:30,51,60,High,85.0,High Load,Consider adding a bus,1,High Demand
+R3,B108,2026-09-04,08:00,29,40,Medium,72.5,Normal,No action required,2,Medium Demand
+R3,B103,2026-09-14,15:00,35,45,Low,77.77777777777779,Normal,No action required,2,Medium Demand
+R10,B120,2026-09-14,14:30,22,50,Low,44.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B115,2026-09-07,02:00,26,50,Medium,52.0,Normal,No action required,0,Low Demand
+R1,B102,2026-09-07,08:00,60,50,Low,120.0,Overloaded,Add additional bus immediately,1,High Demand
+R2,B120,2026-09-12,01:00,41,60,Low,68.33333333333333,Normal,No action required,2,Medium Demand
+R1,B115,2026-09-15,03:00,40,60,Low,66.66666666666666,Normal,No action required,2,Medium Demand
+R9,B105,2026-09-10,20:00,40,40,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R9,B106,2026-09-06,12:00,36,40,Medium,90.0,High Load,Consider adding a bus,2,Medium Demand
+R9,B117,2026-09-04,14:30,41,60,Low,68.33333333333333,Normal,No action required,2,Medium Demand
+R10,B102,2026-09-02,15:00,33,50,Low,66.0,Normal,No action required,2,Medium Demand
+R7,B110,2026-09-14,02:00,25,50,Medium,50.0,Normal,No action required,0,Low Demand
+R6,B110,2026-09-03,23:30,44,55,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R5,B118,2026-09-14,22:30,35,55,Medium,63.63636363636363,Normal,No action required,2,Medium Demand
+R9,B103,2026-09-12,01:30,18,55,Low,32.72727272727273,Low Load,Reduce bus frequency,0,Low Demand
+R3,B107,2026-09-11,14:00,48,50,Low,96.0,High Load,Consider adding a bus,1,High Demand
+R2,B117,2026-09-12,11:00,29,60,Low,48.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R10,B105,2026-09-09,06:00,20,60,Low,33.33333333333333,Low Load,Reduce bus frequency,0,Low Demand
+R3,B115,2026-09-09,23:30,27,40,Low,67.5,Normal,No action required,2,Medium Demand
+R8,B120,2026-09-10,19:00,46,50,Medium,92.0,High Load,Consider adding a bus,1,High Demand
+R4,B112,2026-09-10,15:00,24,60,Low,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B117,2026-09-10,03:30,50,60,High,83.33333333333334,High Load,Consider adding a bus,1,High Demand
+R5,B102,2026-09-09,03:30,13,55,Medium,23.636363636363637,Low Load,Reduce bus frequency,0,Low Demand
+R9,B104,2026-09-03,00:00,20,50,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B103,2026-09-10,20:00,53,45,High,117.77777777777779,Overloaded,Add additional bus immediately,1,High Demand
+R7,B102,2026-09-11,22:30,33,55,Low,60.0,Normal,No action required,2,Medium Demand
+R6,B104,2026-09-04,08:00,43,50,Medium,86.0,High Load,Consider adding a bus,1,High Demand
+R8,B105,2026-09-10,19:00,63,55,High,114.54545454545455,Overloaded,Add additional bus immediately,1,High Demand
+R3,B118,2026-09-12,11:30,48,60,Low,80.0,High Load,Consider adding a bus,1,High Demand
+R4,B110,2026-09-02,05:30,25,40,Low,62.5,Normal,No action required,2,Medium Demand
+R8,B120,2026-09-01,13:30,35,60,Medium,58.333333333333336,Normal,No action required,2,Medium Demand
+R3,B110,2026-09-01,06:00,22,55,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B117,2026-09-02,16:00,31,50,High,62.0,Normal,No action required,2,Medium Demand
+R9,B118,2026-09-09,13:00,7,40,Medium,17.5,Low Load,Reduce bus frequency,0,Low Demand
+R1,B112,2026-09-08,14:00,31,40,Low,77.5,Normal,No action required,2,Medium Demand
+R2,B119,2026-09-04,01:30,30,50,Low,60.0,Normal,No action required,2,Medium Demand
+R8,B116,2026-09-04,02:30,30,45,Low,66.66666666666666,Normal,No action required,2,Medium Demand
+R8,B102,2026-09-05,12:30,25,50,Low,50.0,Normal,No action required,0,Low Demand
+R9,B113,2026-09-11,07:30,61,60,Medium,101.66666666666666,Overloaded,Add additional bus immediately,1,High Demand
+R4,B110,2026-09-02,05:30,24,50,Medium,48.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B115,2026-09-08,11:00,37,55,High,67.27272727272727,Normal,No action required,2,Medium Demand
+R8,B112,2026-09-06,22:00,45,60,Medium,75.0,Normal,No action required,2,Medium Demand
+R3,B118,2026-09-08,01:30,28,50,Low,56.00000000000001,Normal,No action required,2,Medium Demand
+R5,B110,2026-09-14,02:00,13,55,Medium,23.636363636363637,Low Load,Reduce bus frequency,0,Low Demand
+R6,B120,2026-09-07,02:00,41,55,Medium,74.54545454545455,Normal,No action required,2,Medium Demand
+R1,B103,2026-09-08,23:30,43,55,Medium,78.18181818181819,Normal,No action required,2,Medium Demand
+R10,B115,2026-09-03,22:00,29,40,Low,72.5,Normal,No action required,2,Medium Demand
+R6,B112,2026-09-13,07:30,40,55,Low,72.72727272727273,Normal,No action required,2,Medium Demand
+R8,B103,2026-09-04,03:30,30,60,Medium,50.0,Normal,No action required,0,Low Demand
+R5,B108,2026-09-01,18:30,32,40,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R5,B109,2026-09-05,19:00,45,55,High,81.81818181818183,High Load,Consider adding a bus,1,High Demand
+R8,B107,2026-09-04,02:30,23,40,Medium,57.49999999999999,Normal,No action required,0,Low Demand
+R2,B111,2026-09-02,14:30,19,50,Medium,38.0,Low Load,Reduce bus frequency,0,Low Demand
+R5,B106,2026-09-08,22:30,13,45,Medium,28.888888888888886,Low Load,Reduce bus frequency,0,Low Demand
+R8,B101,2026-09-13,01:00,28,50,Medium,56.00000000000001,Normal,No action required,2,Medium Demand
+R9,B105,2026-09-03,01:30,26,60,Low,43.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R7,B114,2026-09-02,19:00,52,60,Medium,86.66666666666667,High Load,Consider adding a bus,1,High Demand
+R2,B115,2026-09-12,06:00,44,55,Low,80.0,High Load,Consider adding a bus,2,Medium Demand
+R3,B105,2026-09-11,22:30,16,55,High,29.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R2,B117,2026-09-07,17:00,37,45,Medium,82.22222222222221,High Load,Consider adding a bus,2,Medium Demand
+R9,B110,2026-09-06,13:30,28,40,Low,70.0,Normal,No action required,2,Medium Demand
+R5,B105,2026-09-14,08:00,47,50,High,94.0,High Load,Consider adding a bus,1,High Demand
+R3,B106,2026-09-14,03:00,59,60,Low,98.33333333333333,High Load,Consider adding a bus,1,High Demand
+R1,B101,2026-09-02,04:30,32,40,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R10,B114,2026-09-14,20:30,49,60,Low,81.66666666666667,High Load,Consider adding a bus,1,High Demand
+R9,B110,2026-09-11,12:30,31,50,Low,62.0,Normal,No action required,2,Medium Demand
+R1,B106,2026-09-10,02:00,27,55,Low,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R10,B105,2026-09-08,00:30,40,50,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R6,B117,2026-09-03,11:30,32,60,Low,53.333333333333336,Normal,No action required,2,Medium Demand
+R5,B115,2026-09-04,05:30,14,45,Low,31.11111111111111,Low Load,Reduce bus frequency,0,Low Demand
+R4,B106,2026-09-13,13:00,21,50,Medium,42.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B116,2026-09-11,04:30,38,60,Low,63.33333333333333,Normal,No action required,2,Medium Demand
+R9,B115,2026-09-05,19:30,31,45,High,68.88888888888889,Normal,No action required,2,Medium Demand
+R5,B116,2026-09-15,04:00,24,60,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B109,2026-09-09,19:30,48,50,Medium,96.0,High Load,Consider adding a bus,1,High Demand
+R10,B118,2026-09-08,23:00,8,45,Medium,17.77777777777778,Low Load,Reduce bus frequency,0,Low Demand
+R5,B120,2026-09-03,18:00,41,60,Medium,68.33333333333333,Normal,No action required,2,Medium Demand
+R6,B111,2026-09-09,00:30,19,60,Medium,31.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R1,B102,2026-09-08,08:00,45,45,High,100.0,High Load,Consider adding a bus,1,High Demand
+R3,B120,2026-09-04,05:00,47,60,Low,78.33333333333333,Normal,No action required,1,High Demand
+R5,B119,2026-09-12,01:00,34,50,Medium,68.0,Normal,No action required,2,Medium Demand
+R10,B110,2026-09-01,14:00,40,55,Low,72.72727272727273,Normal,No action required,2,Medium Demand
+R1,B120,2026-09-06,21:00,43,55,High,78.18181818181819,Normal,No action required,2,Medium Demand
+R10,B119,2026-09-02,07:30,32,45,High,71.11111111111111,Normal,No action required,2,Medium Demand
+R7,B105,2026-09-01,21:30,31,45,Medium,68.88888888888889,Normal,No action required,2,Medium Demand
+R4,B101,2026-09-07,22:00,28,55,Low,50.90909090909091,Normal,No action required,0,Low Demand
+R10,B116,2026-09-04,04:00,27,40,Medium,67.5,Normal,No action required,2,Medium Demand
+R8,B117,2026-09-07,22:00,25,55,High,45.45454545454545,Low Load,Reduce bus frequency,0,Low Demand
+R5,B120,2026-09-05,07:30,42,55,High,76.36363636363637,Normal,No action required,2,Medium Demand
+R5,B108,2026-09-07,09:00,45,50,High,90.0,High Load,Consider adding a bus,1,High Demand
+R9,B109,2026-09-03,19:30,45,50,High,90.0,High Load,Consider adding a bus,1,High Demand
+R7,B112,2026-09-07,10:00,60,45,Low,133.33333333333331,Overloaded,Add additional bus immediately,1,High Demand
+R5,B116,2026-09-05,12:30,20,45,Medium,44.44444444444444,Low Load,Reduce bus frequency,0,Low Demand
+R9,B109,2026-09-03,13:00,25,45,Medium,55.55555555555556,Normal,No action required,0,Low Demand
+R9,B108,2026-09-02,08:00,40,45,Medium,88.88888888888889,High Load,Consider adding a bus,2,Medium Demand
+R8,B104,2026-09-01,08:00,54,45,High,120.0,Overloaded,Add additional bus immediately,1,High Demand
+R8,B116,2026-09-07,08:30,48,45,Medium,106.66666666666667,Overloaded,Add additional bus immediately,1,High Demand
+R2,B119,2026-09-12,15:00,41,45,Medium,91.11111111111111,High Load,Consider adding a bus,1,High Demand
+R7,B106,2026-09-09,16:30,19,40,Medium,47.5,Low Load,Reduce bus frequency,0,Low Demand
+R5,B102,2026-09-07,14:00,13,40,Medium,32.5,Low Load,Reduce bus frequency,0,Low Demand
+R9,B117,2026-09-04,02:00,26,55,Medium,47.27272727272727,Low Load,Reduce bus frequency,0,Low Demand
+R4,B104,2026-09-04,16:30,32,50,Medium,64.0,Normal,No action required,2,Medium Demand
+R6,B110,2026-09-05,08:00,65,60,Medium,108.33333333333333,Overloaded,Add additional bus immediately,1,High Demand
+R7,B114,2026-09-08,05:00,45,60,Low,75.0,Normal,No action required,2,Medium Demand
+R6,B108,2026-09-06,19:00,38,40,Medium,95.0,High Load,Consider adding a bus,1,High Demand
+R5,B111,2026-09-13,15:30,8,50,Medium,16.0,Low Load,Reduce bus frequency,0,Low Demand
+R1,B104,2026-09-07,18:30,56,55,Medium,101.81818181818181,Overloaded,Add additional bus immediately,1,High Demand
+R5,B104,2026-09-09,01:30,18,50,Medium,36.0,Low Load,Reduce bus frequency,0,Low Demand
+R10,B112,2026-09-12,22:30,40,55,High,72.72727272727273,Normal,No action required,2,Medium Demand
+R4,B108,2026-09-02,23:00,30,60,Medium,50.0,Normal,No action required,0,Low Demand
+R2,B102,2026-09-12,00:00,39,60,Low,65.0,Normal,No action required,2,Medium Demand
+R3,B111,2026-09-10,15:30,26,60,Low,43.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R9,B115,2026-09-10,21:30,17,40,Low,42.5,Low Load,Reduce bus frequency,0,Low Demand
+R10,B102,2026-09-11,02:00,28,60,Medium,46.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R1,B107,2026-09-02,18:30,56,60,Low,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R2,B118,2026-09-02,16:30,21,40,High,52.5,Normal,No action required,0,Low Demand
+R3,B114,2026-09-09,09:00,61,50,High,122.0,Overloaded,Add additional bus immediately,1,High Demand
+R7,B113,2026-09-12,17:30,54,40,Medium,135.0,Overloaded,Add additional bus immediately,1,High Demand
+R7,B117,2026-09-05,23:30,42,45,Medium,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R5,B115,2026-09-10,06:30,42,60,Medium,70.0,Normal,No action required,2,Medium Demand
+R5,B107,2026-09-01,21:30,21,40,Medium,52.5,Normal,No action required,0,Low Demand
+R1,B108,2026-09-02,15:30,12,45,Low,26.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R1,B108,2026-09-09,19:00,38,40,High,95.0,High Load,Consider adding a bus,1,High Demand
+R1,B105,2026-09-07,09:30,68,60,Medium,113.33333333333333,Overloaded,Add additional bus immediately,1,High Demand
+R6,B108,2026-09-04,06:30,26,50,High,52.0,Normal,No action required,0,Low Demand
+R7,B110,2026-09-02,12:30,34,50,Medium,68.0,Normal,No action required,2,Medium Demand
+R7,B118,2026-09-02,05:30,47,55,High,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R7,B117,2026-09-10,02:30,27,50,Low,54.0,Normal,No action required,0,Low Demand
+R4,B108,2026-09-04,07:00,59,50,High,118.0,Overloaded,Add additional bus immediately,1,High Demand
+R9,B114,2026-09-13,02:30,24,55,Medium,43.63636363636363,Low Load,Reduce bus frequency,0,Low Demand
+R2,B115,2026-09-03,04:30,40,50,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R1,B109,2026-09-14,03:00,49,55,Medium,89.0909090909091,High Load,Consider adding a bus,1,High Demand
+R9,B107,2026-09-05,16:00,27,55,Medium,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R1,B107,2026-09-03,17:30,54,45,High,120.0,Overloaded,Add additional bus immediately,1,High Demand
+R4,B113,2026-09-13,00:00,17,45,Low,37.77777777777778,Low Load,Reduce bus frequency,0,Low Demand
+R8,B118,2026-09-07,19:00,45,50,Medium,90.0,High Load,Consider adding a bus,1,High Demand
+R8,B111,2026-09-09,03:00,13,45,Low,28.888888888888886,Low Load,Reduce bus frequency,0,Low Demand
+R4,B105,2026-09-06,19:00,38,40,High,95.0,High Load,Consider adding a bus,1,High Demand
+R4,B111,2026-09-09,07:30,34,45,High,75.55555555555556,Normal,No action required,2,Medium Demand
+R9,B111,2026-09-11,15:30,27,50,High,54.0,Normal,No action required,0,Low Demand
+R6,B106,2026-09-12,21:00,36,45,Low,80.0,High Load,Consider adding a bus,2,Medium Demand
+R9,B102,2026-09-01,22:30,15,60,Medium,25.0,Low Load,Reduce bus frequency,0,Low Demand
+R1,B114,2026-09-14,16:00,33,45,Low,73.33333333333333,Normal,No action required,2,Medium Demand
+R1,B107,2026-09-10,22:30,40,60,Low,66.66666666666666,Normal,No action required,2,Medium Demand
+R8,B116,2026-09-01,08:30,32,40,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R1,B117,2026-09-12,15:30,19,50,High,38.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B104,2026-09-12,09:30,31,40,Medium,77.5,Normal,No action required,2,Medium Demand
+R9,B109,2026-09-06,22:00,16,50,Medium,32.0,Low Load,Reduce bus frequency,0,Low Demand
+R4,B108,2026-09-02,22:30,37,50,Medium,74.0,Normal,No action required,2,Medium Demand
+R1,B103,2026-09-09,07:30,52,55,Medium,94.54545454545455,High Load,Consider adding a bus,1,High Demand
+R2,B116,2026-09-14,23:30,29,55,Medium,52.72727272727272,Normal,No action required,2,Medium Demand
+R2,B117,2026-09-06,03:00,33,40,Low,82.5,High Load,Consider adding a bus,2,Medium Demand
+R1,B103,2026-09-12,19:30,38,50,High,76.0,Normal,No action required,2,Medium Demand
+R6,B101,2026-09-13,18:00,51,45,Medium,113.33333333333333,Overloaded,Add additional bus immediately,1,High Demand
+R5,B106,2026-09-06,08:30,56,60,High,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R9,B111,2026-09-04,05:00,38,55,Medium,69.0909090909091,Normal,No action required,2,Medium Demand
+R6,B102,2026-09-10,13:00,14,40,Low,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R10,B120,2026-09-09,16:30,23,60,High,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R8,B116,2026-09-08,19:30,35,45,High,77.77777777777779,Normal,No action required,2,Medium Demand
+R3,B119,2026-09-03,01:00,28,55,Medium,50.90909090909091,Normal,No action required,0,Low Demand
+R5,B105,2026-09-14,18:00,47,55,Medium,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R6,B104,2026-09-01,08:00,36,40,High,90.0,High Load,Consider adding a bus,2,Medium Demand
+R2,B106,2026-09-10,19:00,50,55,High,90.9090909090909,High Load,Consider adding a bus,1,High Demand
+R2,B101,2026-09-08,18:30,40,40,High,100.0,High Load,Consider adding a bus,1,High Demand
+R1,B110,2026-09-09,12:00,36,55,Medium,65.45454545454545,Normal,No action required,2,Medium Demand
+R9,B108,2026-09-12,08:00,51,60,Medium,85.0,High Load,Consider adding a bus,1,High Demand
+R8,B105,2026-09-04,19:00,38,40,High,95.0,High Load,Consider adding a bus,1,High Demand
+R8,B103,2026-09-06,14:00,30,50,High,60.0,Normal,No action required,2,Medium Demand
+R8,B104,2026-09-07,17:00,40,45,Low,88.88888888888889,High Load,Consider adding a bus,2,Medium Demand
+R10,B113,2026-09-10,14:30,42,50,Low,84.0,High Load,Consider adding a bus,2,Medium Demand
+R3,B110,2026-09-14,02:00,16,50,High,32.0,Low Load,Reduce bus frequency,0,Low Demand
+R6,B106,2026-09-08,00:30,33,55,Low,60.0,Normal,No action required,2,Medium Demand
+R4,B111,2026-09-07,05:00,27,55,Medium,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R2,B119,2026-09-13,20:30,16,45,High,35.55555555555556,Low Load,Reduce bus frequency,0,Low Demand
+R8,B107,2026-09-07,10:30,15,55,Medium,27.27272727272727,Low Load,Reduce bus frequency,0,Low Demand
+R7,B116,2026-09-14,17:30,42,45,Medium,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R7,B103,2026-09-13,23:30,34,55,Low,61.81818181818181,Normal,No action required,2,Medium Demand
+R9,B114,2026-09-02,00:00,28,60,Medium,46.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R2,B104,2026-09-08,19:00,42,45,Medium,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R10,B113,2026-09-10,09:30,38,50,Medium,76.0,Normal,No action required,2,Medium Demand
+R9,B119,2026-09-05,22:30,31,60,Low,51.66666666666667,Normal,No action required,2,Medium Demand
+R10,B117,2026-09-08,14:00,22,45,High,48.888888888888886,Low Load,Reduce bus frequency,0,Low Demand
+R2,B104,2026-09-08,15:30,30,45,Low,66.66666666666666,Normal,No action required,2,Medium Demand
+R4,B117,2026-09-08,15:30,27,55,Low,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R5,B102,2026-09-01,17:00,35,40,High,87.5,High Load,Consider adding a bus,2,Medium Demand
+R3,B108,2026-09-04,22:30,29,60,Medium,48.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R7,B106,2026-09-14,21:00,27,45,Medium,60.0,Normal,No action required,2,Medium Demand
+R10,B107,2026-09-13,20:30,14,55,Low,25.454545454545453,Low Load,Reduce bus frequency,0,Low Demand
+R2,B119,2026-09-12,16:00,20,40,Low,50.0,Normal,No action required,0,Low Demand
+R8,B104,2026-09-11,16:00,28,50,Medium,56.00000000000001,Normal,No action required,2,Medium Demand
+R10,B104,2026-09-08,17:30,47,50,High,94.0,High Load,Consider adding a bus,1,High Demand
+R5,B120,2026-09-03,00:30,23,60,Medium,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R6,B105,2026-09-09,12:00,21,60,Low,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B114,2026-09-11,14:30,26,45,Medium,57.77777777777777,Normal,No action required,2,Medium Demand
+R9,B106,2026-09-07,09:00,33,55,Medium,60.0,Normal,No action required,2,Medium Demand
+R8,B120,2026-09-08,21:00,23,40,High,57.49999999999999,Normal,No action required,0,Low Demand
+R9,B117,2026-09-09,22:30,27,55,Medium,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R8,B116,2026-09-02,23:30,33,45,Medium,73.33333333333333,Normal,No action required,2,Medium Demand
+R4,B118,2026-09-04,19:30,48,50,High,96.0,High Load,Consider adding a bus,1,High Demand
+R8,B118,2026-09-03,15:00,16,60,Medium,26.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R9,B102,2026-09-12,21:00,23,55,Low,41.81818181818181,Low Load,Reduce bus frequency,0,Low Demand
+R4,B110,2026-09-10,19:30,49,40,Medium,122.50000000000001,Overloaded,Add additional bus immediately,1,High Demand
+R2,B108,2026-09-13,18:30,52,45,High,115.55555555555554,Overloaded,Add additional bus immediately,1,High Demand
+R10,B114,2026-09-14,08:30,36,45,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R6,B118,2026-09-13,23:00,23,50,Medium,46.0,Low Load,Reduce bus frequency,0,Low Demand
+R5,B110,2026-09-06,22:00,35,60,High,58.333333333333336,Normal,No action required,2,Medium Demand
+R3,B114,2026-09-07,03:00,13,40,Medium,32.5,Low Load,Reduce bus frequency,0,Low Demand
+R3,B108,2026-09-08,02:00,34,45,Medium,75.55555555555556,Normal,No action required,2,Medium Demand
+R10,B109,2026-09-09,05:30,32,55,Low,58.18181818181818,Normal,No action required,2,Medium Demand
+R2,B113,2026-09-07,03:30,43,60,Medium,71.66666666666667,Normal,No action required,2,Medium Demand
+R10,B101,2026-09-11,00:00,28,40,Medium,70.0,Normal,No action required,2,Medium Demand
+R2,B118,2026-09-05,21:00,38,55,High,69.0909090909091,Normal,No action required,2,Medium Demand
+R5,B111,2026-09-13,13:00,43,60,Low,71.66666666666667,Normal,No action required,2,Medium Demand
+R6,B102,2026-09-03,08:00,50,40,High,125.0,Overloaded,Add additional bus immediately,1,High Demand
+R3,B115,2026-09-01,05:30,33,55,High,60.0,Normal,No action required,2,Medium Demand
+R3,B110,2026-09-07,01:30,28,45,Low,62.22222222222222,Normal,No action required,2,Medium Demand
+R3,B102,2026-09-14,13:30,43,55,Low,78.18181818181819,Normal,No action required,2,Medium Demand
+R4,B114,2026-09-03,06:00,23,40,Low,57.49999999999999,Normal,No action required,0,Low Demand
+R8,B101,2026-09-08,13:00,35,40,Medium,87.5,High Load,Consider adding a bus,2,Medium Demand
+R7,B105,2026-09-02,17:30,46,55,Medium,83.63636363636363,High Load,Consider adding a bus,1,High Demand
+R6,B110,2026-09-09,09:00,45,45,High,100.0,High Load,Consider adding a bus,1,High Demand
+R3,B105,2026-09-12,13:00,29,40,Medium,72.5,Normal,No action required,2,Medium Demand
+R4,B105,2026-09-14,08:30,62,55,High,112.72727272727272,Overloaded,Add additional bus immediately,1,High Demand
+R2,B104,2026-09-03,20:30,24,45,Medium,53.333333333333336,Normal,No action required,0,Low Demand
+R3,B108,2026-09-14,23:30,33,50,Low,66.0,Normal,No action required,2,Medium Demand
+R10,B120,2026-09-01,19:00,49,50,High,98.0,High Load,Consider adding a bus,1,High Demand
+R9,B107,2026-09-07,12:30,40,55,Medium,72.72727272727273,Normal,No action required,2,Medium Demand
+R4,B116,2026-09-03,15:00,40,55,Low,72.72727272727273,Normal,No action required,2,Medium Demand
+R1,B112,2026-09-04,01:00,44,50,Low,88.0,High Load,Consider adding a bus,1,High Demand
+R7,B112,2026-09-04,21:30,54,60,Medium,90.0,High Load,Consider adding a bus,1,High Demand
+R2,B101,2026-09-05,19:30,36,50,Low,72.0,Normal,No action required,2,Medium Demand
+R7,B117,2026-09-14,15:00,37,50,Medium,74.0,Normal,No action required,2,Medium Demand
+R9,B118,2026-09-04,11:30,25,60,Low,41.66666666666667,Low Load,Reduce bus frequency,0,Low Demand
+R9,B107,2026-09-12,16:00,25,45,Low,55.55555555555556,Normal,No action required,0,Low Demand
+R2,B110,2026-09-06,07:30,36,55,Low,65.45454545454545,Normal,No action required,2,Medium Demand
+R7,B104,2026-09-14,06:30,28,55,Medium,50.90909090909091,Normal,No action required,0,Low Demand
+R2,B101,2026-09-01,11:00,32,45,Low,71.11111111111111,Normal,No action required,2,Medium Demand
+R9,B117,2026-09-04,18:30,53,50,Medium,106.0,Overloaded,Add additional bus immediately,1,High Demand
+R2,B101,2026-09-10,09:00,33,50,Medium,66.0,Normal,No action required,2,Medium Demand
+R10,B103,2026-09-10,22:30,17,55,Medium,30.909090909090907,Low Load,Reduce bus frequency,0,Low Demand
+R3,B109,2026-09-13,11:00,15,40,Medium,37.5,Low Load,Reduce bus frequency,0,Low Demand
+R9,B101,2026-09-01,11:30,18,40,Low,45.0,Low Load,Reduce bus frequency,0,Low Demand
+R1,B118,2026-09-06,00:00,33,55,Low,60.0,Normal,No action required,2,Medium Demand
+R6,B109,2026-09-13,10:00,39,40,Medium,97.5,High Load,Consider adding a bus,1,High Demand
+R9,B102,2026-09-02,16:30,38,55,Medium,69.0909090909091,Normal,No action required,2,Medium Demand
+R5,B111,2026-09-13,00:30,15,40,Low,37.5,Low Load,Reduce bus frequency,0,Low Demand
+R10,B108,2026-09-09,02:00,35,55,Medium,63.63636363636363,Normal,No action required,2,Medium Demand
+R4,B118,2026-09-04,10:30,23,45,Low,51.11111111111111,Normal,No action required,0,Low Demand
+R1,B111,2026-09-09,06:00,33,40,Medium,82.5,High Load,Consider adding a bus,2,Medium Demand
+R2,B107,2026-09-06,07:00,70,60,High,116.66666666666667,Overloaded,Add additional bus immediately,1,High Demand
+R5,B103,2026-09-06,04:00,20,40,Medium,50.0,Normal,No action required,0,Low Demand
+R6,B115,2026-09-13,14:30,14,40,Low,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R10,B102,2026-09-04,00:00,21,55,Low,38.18181818181819,Low Load,Reduce bus frequency,0,Low Demand
+R6,B113,2026-09-08,00:00,21,50,Low,42.0,Low Load,Reduce bus frequency,0,Low Demand
+R10,B104,2026-09-03,11:30,23,45,Low,51.11111111111111,Normal,No action required,0,Low Demand
+R7,B104,2026-09-08,20:30,26,60,High,43.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R2,B103,2026-09-07,17:00,48,45,High,106.66666666666667,Overloaded,Add additional bus immediately,1,High Demand
+R1,B107,2026-09-04,09:00,42,50,Low,84.0,High Load,Consider adding a bus,2,Medium Demand
+R5,B109,2026-09-01,21:00,35,45,High,77.77777777777779,Normal,No action required,2,Medium Demand
+R9,B118,2026-09-03,05:30,31,45,Low,68.88888888888889,Normal,No action required,2,Medium Demand
+R4,B105,2026-09-09,18:30,45,45,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R2,B119,2026-09-06,18:00,46,60,High,76.66666666666667,Normal,No action required,2,Medium Demand
+R8,B105,2026-09-08,07:00,45,40,Medium,112.5,Overloaded,Add additional bus immediately,1,High Demand
+R1,B106,2026-09-10,11:00,38,60,Medium,63.33333333333333,Normal,No action required,2,Medium Demand
+R3,B112,2026-09-05,05:00,28,45,Low,62.22222222222222,Normal,No action required,2,Medium Demand
+R3,B102,2026-09-14,10:30,37,60,Medium,61.66666666666667,Normal,No action required,2,Medium Demand
+R8,B102,2026-09-07,04:30,20,40,Low,50.0,Normal,No action required,0,Low Demand
+R9,B108,2026-09-01,15:00,38,60,High,63.33333333333333,Normal,No action required,2,Medium Demand
+R8,B112,2026-09-11,22:30,28,60,Low,46.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R1,B111,2026-09-05,21:30,48,60,Low,80.0,High Load,Consider adding a bus,1,High Demand
+R8,B117,2026-09-13,16:30,47,50,High,94.0,High Load,Consider adding a bus,1,High Demand
+R2,B108,2026-09-06,21:30,32,45,Medium,71.11111111111111,Normal,No action required,2,Medium Demand
+R4,B119,2026-09-08,19:00,58,55,High,105.45454545454544,Overloaded,Add additional bus immediately,1,High Demand
+R3,B106,2026-09-13,20:30,32,45,Low,71.11111111111111,Normal,No action required,2,Medium Demand
+R6,B119,2026-09-04,06:00,25,60,Medium,41.66666666666667,Low Load,Reduce bus frequency,0,Low Demand
+R8,B118,2026-09-04,23:00,15,50,Low,30.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B116,2026-09-08,07:00,32,40,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R3,B111,2026-09-08,03:00,18,45,Low,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B117,2026-09-02,18:30,55,50,Medium,110.00000000000001,Overloaded,Add additional bus immediately,1,High Demand
+R7,B119,2026-09-08,09:30,38,40,Medium,95.0,High Load,Consider adding a bus,1,High Demand
+R8,B111,2026-09-13,05:00,42,45,Medium,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R6,B108,2026-09-04,23:00,41,60,Low,68.33333333333333,Normal,No action required,2,Medium Demand
+R1,B119,2026-09-13,08:00,60,55,Low,109.09090909090908,Overloaded,Add additional bus immediately,1,High Demand
+R10,B108,2026-09-03,10:30,20,60,High,33.33333333333333,Low Load,Reduce bus frequency,0,Low Demand
+R6,B106,2026-09-14,20:30,16,40,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R1,B109,2026-09-06,13:00,25,45,Medium,55.55555555555556,Normal,No action required,0,Low Demand
+R1,B113,2026-09-10,04:00,43,55,High,78.18181818181819,Normal,No action required,2,Medium Demand
+R8,B113,2026-09-12,21:00,38,50,Low,76.0,Normal,No action required,2,Medium Demand
+R4,B106,2026-09-02,19:00,36,55,High,65.45454545454545,Normal,No action required,2,Medium Demand
+R1,B111,2026-09-03,11:00,18,50,Low,36.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B103,2026-09-13,21:30,40,50,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R1,B114,2026-09-14,04:00,21,45,Medium,46.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R4,B114,2026-09-12,18:00,51,60,Medium,85.0,High Load,Consider adding a bus,1,High Demand
+R4,B104,2026-09-09,14:30,32,40,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R7,B103,2026-09-14,13:30,25,50,Medium,50.0,Normal,No action required,0,Low Demand
+R1,B107,2026-09-14,20:00,38,45,Medium,84.44444444444444,High Load,Consider adding a bus,2,Medium Demand
+R7,B116,2026-09-06,21:00,34,55,Low,61.81818181818181,Normal,No action required,2,Medium Demand
+R3,B112,2026-09-09,02:30,17,55,Low,30.909090909090907,Low Load,Reduce bus frequency,0,Low Demand
+R5,B119,2026-09-04,10:30,25,40,Medium,62.5,Normal,No action required,2,Medium Demand
+R2,B112,2026-09-10,01:00,31,60,High,51.66666666666667,Normal,No action required,2,Medium Demand
+R9,B114,2026-09-11,08:30,43,60,High,71.66666666666667,Normal,No action required,2,Medium Demand
+R5,B103,2026-09-01,23:00,42,55,Medium,76.36363636363637,Normal,No action required,2,Medium Demand
+R10,B105,2026-09-10,19:00,41,40,Medium,102.49999999999999,Overloaded,Add additional bus immediately,1,High Demand
+R4,B107,2026-09-02,03:00,28,45,Low,62.22222222222222,Normal,No action required,2,Medium Demand
+R3,B120,2026-09-08,01:00,48,50,High,96.0,High Load,Consider adding a bus,1,High Demand
+R2,B103,2026-09-13,02:00,24,55,Low,43.63636363636363,Low Load,Reduce bus frequency,0,Low Demand
+R1,B120,2026-09-12,09:00,53,60,High,88.33333333333333,High Load,Consider adding a bus,1,High Demand
+R3,B105,2026-09-13,18:30,74,60,High,123.33333333333334,Overloaded,Add additional bus immediately,1,High Demand
+R2,B110,2026-09-08,13:30,25,60,Medium,41.66666666666667,Low Load,Reduce bus frequency,0,Low Demand
+R8,B119,2026-09-11,07:30,52,60,Low,86.66666666666667,High Load,Consider adding a bus,1,High Demand
+R7,B102,2026-09-08,07:00,47,55,High,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R8,B109,2026-09-01,15:30,34,50,Low,68.0,Normal,No action required,2,Medium Demand
+R2,B108,2026-09-07,15:00,29,45,High,64.44444444444444,Normal,No action required,2,Medium Demand
+R6,B109,2026-09-14,03:00,21,55,Medium,38.18181818181819,Low Load,Reduce bus frequency,0,Low Demand
+R8,B117,2026-09-02,10:00,44,50,High,88.0,High Load,Consider adding a bus,1,High Demand
+R5,B117,2026-09-04,02:30,27,55,Medium,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R4,B102,2026-09-01,22:00,35,45,Low,77.77777777777779,Normal,No action required,2,Medium Demand
+R4,B109,2026-09-11,03:00,32,50,Medium,64.0,Normal,No action required,2,Medium Demand
+R6,B116,2026-09-10,17:30,66,60,Medium,110.00000000000001,Overloaded,Add additional bus immediately,1,High Demand
+R10,B118,2026-09-08,13:30,39,50,Low,78.0,Normal,No action required,2,Medium Demand
+R5,B101,2026-09-02,06:30,25,55,Low,45.45454545454545,Low Load,Reduce bus frequency,0,Low Demand
+R4,B108,2026-09-05,15:00,27,45,Low,60.0,Normal,No action required,2,Medium Demand
+R1,B116,2026-09-15,00:30,37,45,Low,82.22222222222221,High Load,Consider adding a bus,2,Medium Demand
+R4,B109,2026-09-07,17:30,60,60,High,100.0,High Load,Consider adding a bus,1,High Demand
+R6,B115,2026-09-05,21:00,39,50,Low,78.0,Normal,No action required,2,Medium Demand
+R10,B113,2026-09-03,09:30,75,60,Low,125.0,Overloaded,Add additional bus immediately,1,High Demand
+R9,B120,2026-09-07,06:00,15,60,Low,25.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B111,2026-09-14,21:00,17,50,Low,34.0,Low Load,Reduce bus frequency,0,Low Demand
+R5,B107,2026-09-12,06:00,27,45,Medium,60.0,Normal,No action required,2,Medium Demand
+R10,B113,2026-09-04,05:00,34,50,Medium,68.0,Normal,No action required,2,Medium Demand
+R7,B113,2026-09-01,23:30,51,55,Medium,92.72727272727272,High Load,Consider adding a bus,1,High Demand
+R4,B111,2026-09-12,15:00,27,45,Medium,60.0,Normal,No action required,2,Medium Demand
+R5,B106,2026-09-05,02:00,28,60,Low,46.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R5,B118,2026-09-08,09:00,35,45,High,77.77777777777779,Normal,No action required,2,Medium Demand
+R7,B111,2026-09-06,18:30,55,50,High,110.00000000000001,Overloaded,Add additional bus immediately,1,High Demand
+R2,B116,2026-09-14,18:00,51,40,High,127.49999999999999,Overloaded,Add additional bus immediately,1,High Demand
+R9,B104,2026-09-12,12:30,16,55,Low,29.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R3,B105,2026-09-08,12:30,33,45,Low,73.33333333333333,Normal,No action required,2,Medium Demand
+R6,B106,2026-09-11,15:00,32,40,Low,80.0,High Load,Consider adding a bus,2,Medium Demand
+R6,B102,2026-09-10,20:30,31,40,Low,77.5,Normal,No action required,2,Medium Demand
+R8,B103,2026-09-14,08:00,45,45,High,100.0,High Load,Consider adding a bus,1,High Demand
+R7,B116,2026-09-01,07:30,47,55,Low,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R6,B117,2026-09-01,14:30,29,45,Medium,64.44444444444444,Normal,No action required,2,Medium Demand
+R4,B108,2026-09-07,21:00,22,50,Low,44.0,Low Load,Reduce bus frequency,0,Low Demand
+R1,B110,2026-09-10,22:30,33,50,Medium,66.0,Normal,No action required,2,Medium Demand
+R6,B114,2026-09-08,12:30,24,45,High,53.333333333333336,Normal,No action required,0,Low Demand
+R7,B101,2026-09-06,00:00,17,45,Medium,37.77777777777778,Low Load,Reduce bus frequency,0,Low Demand
+R1,B119,2026-09-04,20:00,67,60,Medium,111.66666666666667,Overloaded,Add additional bus immediately,1,High Demand
+R5,B118,2026-09-02,06:00,11,60,Medium,18.333333333333332,Low Load,Reduce bus frequency,0,Low Demand
+R2,B101,2026-09-03,16:30,16,40,Low,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B107,2026-09-07,15:30,15,40,Low,37.5,Low Load,Reduce bus frequency,0,Low Demand
+R9,B109,2026-09-14,03:30,30,60,Medium,50.0,Normal,No action required,0,Low Demand
+R10,B104,2026-09-03,15:30,25,50,Medium,50.0,Normal,No action required,0,Low Demand
+R10,B107,2026-09-12,09:00,42,50,High,84.0,High Load,Consider adding a bus,2,Medium Demand
+R9,B116,2026-09-11,11:30,10,45,Low,22.22222222222222,Low Load,Reduce bus frequency,0,Low Demand
+R2,B104,2026-09-11,18:00,40,60,Medium,66.66666666666666,Normal,No action required,2,Medium Demand
+R2,B109,2026-09-10,23:00,19,45,High,42.22222222222222,Low Load,Reduce bus frequency,0,Low Demand
+R8,B102,2026-09-04,22:30,28,40,Medium,70.0,Normal,No action required,2,Medium Demand
+R7,B104,2026-09-02,04:30,20,40,Low,50.0,Normal,No action required,0,Low Demand
+R3,B111,2026-09-10,13:30,24,50,High,48.0,Low Load,Reduce bus frequency,0,Low Demand
+R6,B106,2026-09-09,18:30,33,40,High,82.5,High Load,Consider adding a bus,2,Medium Demand
+R7,B116,2026-09-15,01:30,27,55,Medium,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R3,B104,2026-09-13,19:30,61,55,High,110.9090909090909,Overloaded,Add additional bus immediately,1,High Demand
+R8,B106,2026-09-09,07:30,63,60,High,105.0,Overloaded,Add additional bus immediately,1,High Demand
+R3,B116,2026-09-03,15:00,28,55,Medium,50.90909090909091,Normal,No action required,0,Low Demand
+R2,B109,2026-09-01,11:30,33,50,Medium,66.0,Normal,No action required,2,Medium Demand
+R10,B108,2026-09-12,07:00,47,50,High,94.0,High Load,Consider adding a bus,1,High Demand
+R2,B114,2026-09-11,12:00,25,45,Low,55.55555555555556,Normal,No action required,0,Low Demand
+R9,B120,2026-09-01,11:00,16,40,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B116,2026-09-02,19:30,37,45,High,82.22222222222221,High Load,Consider adding a bus,2,Medium Demand
+R9,B108,2026-09-14,22:30,44,60,Low,73.33333333333333,Normal,No action required,2,Medium Demand
+R2,B115,2026-09-13,10:30,41,55,Low,74.54545454545455,Normal,No action required,2,Medium Demand
+R8,B101,2026-09-09,20:00,39,40,High,97.5,High Load,Consider adding a bus,1,High Demand
+R1,B103,2026-09-14,10:00,67,60,High,111.66666666666667,Overloaded,Add additional bus immediately,1,High Demand
+R8,B111,2026-09-02,09:00,52,50,High,104.0,Overloaded,Add additional bus immediately,1,High Demand
+R6,B118,2026-09-14,00:30,38,60,Low,63.33333333333333,Normal,No action required,2,Medium Demand
+R4,B101,2026-09-08,19:00,55,50,High,110.00000000000001,Overloaded,Add additional bus immediately,1,High Demand
+R5,B118,2026-09-09,04:30,14,60,Medium,23.333333333333332,Low Load,Reduce bus frequency,0,Low Demand
+R7,B104,2026-09-14,06:00,22,50,Low,44.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B107,2026-09-05,07:00,40,55,High,72.72727272727273,Normal,No action required,2,Medium Demand
+R10,B104,2026-09-10,23:30,49,55,Medium,89.0909090909091,High Load,Consider adding a bus,1,High Demand
+R3,B116,2026-09-12,13:00,23,40,Medium,57.49999999999999,Normal,No action required,0,Low Demand
+R9,B106,2026-09-04,22:00,18,60,Medium,30.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B120,2026-09-08,02:00,40,60,Medium,66.66666666666666,Normal,No action required,2,Medium Demand
+R4,B109,2026-09-08,13:00,28,55,High,50.90909090909091,Normal,No action required,0,Low Demand
+R3,B105,2026-09-14,01:30,41,55,Medium,74.54545454545455,Normal,No action required,2,Medium Demand
+R6,B118,2026-09-05,12:00,35,45,Low,77.77777777777779,Normal,No action required,2,Medium Demand
+R6,B105,2026-09-11,23:00,27,45,Medium,60.0,Normal,No action required,2,Medium Demand
+R9,B116,2026-09-13,09:30,53,60,High,88.33333333333333,High Load,Consider adding a bus,1,High Demand
+R9,B110,2026-09-01,12:00,15,55,Medium,27.27272727272727,Low Load,Reduce bus frequency,0,Low Demand
+R4,B109,2026-09-07,08:00,38,45,High,84.44444444444444,High Load,Consider adding a bus,2,Medium Demand
+R1,B110,2026-09-12,18:30,56,45,Low,124.44444444444444,Overloaded,Add additional bus immediately,1,High Demand
+R9,B108,2026-09-09,12:30,44,60,Low,73.33333333333333,Normal,No action required,2,Medium Demand
+R5,B102,2026-09-09,11:30,34,55,Low,61.81818181818181,Normal,No action required,2,Medium Demand
+R1,B101,2026-09-05,13:00,33,50,Medium,66.0,Normal,No action required,2,Medium Demand
+R8,B108,2026-09-13,18:30,50,50,High,100.0,High Load,Consider adding a bus,1,High Demand
+R5,B115,2026-09-02,19:30,25,45,Medium,55.55555555555556,Normal,No action required,0,Low Demand
+R9,B104,2026-09-02,02:00,32,55,Low,58.18181818181818,Normal,No action required,2,Medium Demand
+R5,B101,2026-09-11,04:00,18,50,Medium,36.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B111,2026-09-02,07:30,65,60,High,108.33333333333333,Overloaded,Add additional bus immediately,1,High Demand
+R10,B118,2026-09-02,18:30,40,50,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R4,B106,2026-09-02,16:00,18,60,Medium,30.0,Low Load,Reduce bus frequency,0,Low Demand
+R6,B108,2026-09-08,07:00,37,45,Medium,82.22222222222221,High Load,Consider adding a bus,2,Medium Demand
+R10,B117,2026-09-13,04:30,51,55,Medium,92.72727272727272,High Load,Consider adding a bus,1,High Demand
+R8,B108,2026-09-14,11:30,17,60,Low,28.333333333333332,Low Load,Reduce bus frequency,0,Low Demand
+R6,B113,2026-09-09,11:00,31,40,Low,77.5,Normal,No action required,2,Medium Demand
+R6,B117,2026-09-10,17:30,51,60,High,85.0,High Load,Consider adding a bus,1,High Demand
+R4,B111,2026-09-02,23:30,25,60,High,41.66666666666667,Low Load,Reduce bus frequency,0,Low Demand
+R1,B103,2026-09-14,15:30,37,45,Medium,82.22222222222221,High Load,Consider adding a bus,2,Medium Demand
+R7,B104,2026-09-12,16:30,38,45,Medium,84.44444444444444,High Load,Consider adding a bus,2,Medium Demand
+R2,B105,2026-09-11,00:30,8,40,Medium,20.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B102,2026-09-06,14:00,27,45,Medium,60.0,Normal,No action required,2,Medium Demand
+R7,B115,2026-09-10,11:00,33,55,Low,60.0,Normal,No action required,2,Medium Demand
+R2,B118,2026-09-14,21:30,11,40,Medium,27.500000000000004,Low Load,Reduce bus frequency,0,Low Demand
+R2,B112,2026-09-03,11:30,39,60,Low,65.0,Normal,No action required,2,Medium Demand
+R10,B103,2026-09-10,13:30,39,50,Low,78.0,Normal,No action required,2,Medium Demand
+R4,B105,2026-09-12,20:30,35,55,Low,63.63636363636363,Normal,No action required,2,Medium Demand
+R5,B112,2026-09-13,00:30,15,40,Medium,37.5,Low Load,Reduce bus frequency,0,Low Demand
+R7,B118,2026-09-03,01:00,48,60,Low,80.0,High Load,Consider adding a bus,1,High Demand
+R6,B107,2026-09-15,00:00,20,55,Medium,36.36363636363637,Low Load,Reduce bus frequency,0,Low Demand
+R5,B107,2026-09-05,02:00,25,40,Medium,62.5,Normal,No action required,2,Medium Demand
+R1,B118,2026-09-14,23:30,29,55,Medium,52.72727272727272,Normal,No action required,2,Medium Demand
+R10,B116,2026-09-08,20:00,50,50,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R2,B110,2026-09-02,17:00,47,60,High,78.33333333333333,Normal,No action required,1,High Demand
+R5,B119,2026-09-13,07:00,47,45,High,104.44444444444446,Overloaded,Add additional bus immediately,1,High Demand
+R7,B106,2026-09-07,21:30,18,40,Low,45.0,Low Load,Reduce bus frequency,0,Low Demand
+R6,B105,2026-09-11,11:00,20,50,Low,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R5,B116,2026-09-03,13:00,37,60,Low,61.66666666666667,Normal,No action required,2,Medium Demand
+R3,B118,2026-09-06,20:00,43,45,High,95.55555555555556,High Load,Consider adding a bus,1,High Demand
+R2,B101,2026-09-14,16:30,33,60,Low,55.00000000000001,Normal,No action required,2,Medium Demand
+R1,B118,2026-09-12,19:30,53,50,High,106.0,Overloaded,Add additional bus immediately,1,High Demand
+R3,B112,2026-09-05,23:30,39,55,Medium,70.9090909090909,Normal,No action required,2,Medium Demand
+R9,B117,2026-09-09,16:30,7,40,Low,17.5,Low Load,Reduce bus frequency,0,Low Demand
+R4,B120,2026-09-12,04:30,12,45,Low,26.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R3,B116,2026-09-02,02:00,30,50,Low,60.0,Normal,No action required,2,Medium Demand
+R2,B109,2026-09-06,05:00,21,50,Low,42.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B115,2026-09-02,01:30,16,40,High,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B109,2026-09-13,13:30,14,50,Medium,28.000000000000004,Low Load,Reduce bus frequency,0,Low Demand
+R2,B117,2026-09-09,06:00,17,50,High,34.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B112,2026-09-11,14:30,49,50,Medium,98.0,High Load,Consider adding a bus,1,High Demand
+R8,B106,2026-09-02,20:30,19,45,Medium,42.22222222222222,Low Load,Reduce bus frequency,0,Low Demand
+R3,B106,2026-09-08,22:30,35,45,Medium,77.77777777777779,Normal,No action required,2,Medium Demand
+R6,B104,2026-09-11,10:30,31,55,Low,56.36363636363636,Normal,No action required,2,Medium Demand
+R7,B101,2026-09-02,03:30,33,45,Low,73.33333333333333,Normal,No action required,2,Medium Demand
+R10,B105,2026-09-04,18:30,34,40,Medium,85.0,High Load,Consider adding a bus,2,Medium Demand
+R7,B120,2026-09-14,19:30,65,60,Low,108.33333333333333,Overloaded,Add additional bus immediately,1,High Demand
+R2,B107,2026-09-14,04:00,40,55,High,72.72727272727273,Normal,No action required,2,Medium Demand
+R3,B108,2026-09-14,01:00,38,55,Low,69.0909090909091,Normal,No action required,2,Medium Demand
+R9,B109,2026-09-08,12:30,21,45,High,46.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R2,B108,2026-09-09,10:30,8,55,Low,14.545454545454545,Low Load,Reduce bus frequency,0,Low Demand
+R7,B105,2026-09-03,06:30,51,60,Low,85.0,High Load,Consider adding a bus,1,High Demand
+R10,B102,2026-09-11,23:00,15,60,Medium,25.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B101,2026-09-12,08:30,52,55,High,94.54545454545455,High Load,Consider adding a bus,1,High Demand
+R9,B114,2026-09-11,12:00,15,45,Medium,33.33333333333333,Low Load,Reduce bus frequency,0,Low Demand
+R10,B104,2026-09-04,02:00,36,55,Low,65.45454545454545,Normal,No action required,2,Medium Demand
+R2,B110,2026-09-12,19:30,46,60,High,76.66666666666667,Normal,No action required,2,Medium Demand
+R10,B117,2026-09-12,07:30,35,40,Low,87.5,High Load,Consider adding a bus,2,Medium Demand
+R6,B114,2026-09-03,12:00,32,50,Low,64.0,Normal,No action required,2,Medium Demand
+R7,B119,2026-09-14,06:30,43,50,Low,86.0,High Load,Consider adding a bus,1,High Demand
+R4,B114,2026-09-13,02:30,26,60,Low,43.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R5,B119,2026-09-09,17:00,51,50,High,102.0,Overloaded,Add additional bus immediately,1,High Demand
+R2,B108,2026-09-04,16:00,32,55,Low,58.18181818181818,Normal,No action required,2,Medium Demand
+R10,B102,2026-09-09,12:30,6,45,High,13.333333333333334,Low Load,Reduce bus frequency,0,Low Demand
+R2,B105,2026-09-14,00:30,16,55,Low,29.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R1,B113,2026-09-14,07:30,51,55,High,92.72727272727272,High Load,Consider adding a bus,1,High Demand
+R10,B102,2026-09-14,21:00,16,45,Low,35.55555555555556,Low Load,Reduce bus frequency,0,Low Demand
+R9,B110,2026-09-01,22:30,17,45,Medium,37.77777777777778,Low Load,Reduce bus frequency,0,Low Demand
+R4,B120,2026-09-01,23:30,30,45,Low,66.66666666666666,Normal,No action required,2,Medium Demand
+R5,B113,2026-09-09,15:30,16,50,Low,32.0,Low Load,Reduce bus frequency,0,Low Demand
+R1,B103,2026-09-12,22:30,36,40,Low,90.0,High Load,Consider adding a bus,2,Medium Demand
+R5,B108,2026-09-05,09:00,48,60,High,80.0,High Load,Consider adding a bus,1,High Demand
+R1,B109,2026-09-09,21:30,27,45,Medium,60.0,Normal,No action required,2,Medium Demand
+R2,B117,2026-09-12,16:30,30,50,Medium,60.0,Normal,No action required,2,Medium Demand
+R8,B113,2026-09-11,13:00,45,60,Medium,75.0,Normal,No action required,2,Medium Demand
+R8,B119,2026-09-11,12:00,11,40,Low,27.500000000000004,Low Load,Reduce bus frequency,0,Low Demand
+R4,B108,2026-09-10,00:30,34,50,High,68.0,Normal,No action required,2,Medium Demand
+R4,B110,2026-09-09,17:30,43,40,High,107.5,Overloaded,Add additional bus immediately,1,High Demand
+R2,B118,2026-09-11,09:00,34,45,Medium,75.55555555555556,Normal,No action required,2,Medium Demand
+R4,B116,2026-09-06,05:30,34,45,Medium,75.55555555555556,Normal,No action required,2,Medium Demand
+R4,B108,2026-09-06,13:00,21,45,Medium,46.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R2,B116,2026-09-01,08:30,55,60,High,91.66666666666666,High Load,Consider adding a bus,1,High Demand
+R1,B116,2026-09-14,11:00,46,50,Low,92.0,High Load,Consider adding a bus,1,High Demand
+R5,B116,2026-09-12,03:00,12,45,Low,26.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R10,B105,2026-09-12,10:30,18,40,Medium,45.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B106,2026-09-03,19:00,53,55,High,96.36363636363636,High Load,Consider adding a bus,1,High Demand
+R1,B101,2026-09-09,07:30,40,45,High,88.88888888888889,High Load,Consider adding a bus,2,Medium Demand
+R9,B109,2026-09-06,23:00,24,45,Low,53.333333333333336,Normal,No action required,0,Low Demand
+R6,B106,2026-09-10,06:30,33,55,Low,60.0,Normal,No action required,2,Medium Demand
+R5,B115,2026-09-13,10:00,45,45,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R4,B104,2026-09-06,06:00,40,50,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R3,B116,2026-09-04,23:30,22,40,Low,55.00000000000001,Normal,No action required,0,Low Demand
+R9,B118,2026-09-11,14:30,24,50,Low,48.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B102,2026-09-06,15:30,31,45,Low,68.88888888888889,Normal,No action required,2,Medium Demand
+R8,B111,2026-09-08,22:00,30,50,Low,60.0,Normal,No action required,2,Medium Demand
+R7,B104,2026-09-14,03:30,31,50,Low,62.0,Normal,No action required,2,Medium Demand
+R9,B106,2026-09-08,19:00,44,50,Medium,88.0,High Load,Consider adding a bus,1,High Demand
+R2,B113,2026-09-07,08:00,65,60,High,108.33333333333333,Overloaded,Add additional bus immediately,1,High Demand
+R3,B111,2026-09-14,16:30,33,55,Medium,60.0,Normal,No action required,2,Medium Demand
+R6,B108,2026-09-07,23:30,33,50,Medium,66.0,Normal,No action required,2,Medium Demand
+R10,B113,2026-09-10,17:00,56,50,High,112.00000000000001,Overloaded,Add additional bus immediately,1,High Demand
+R8,B114,2026-09-05,03:30,11,45,Medium,24.444444444444443,Low Load,Reduce bus frequency,0,Low Demand
+R4,B109,2026-09-05,17:00,36,40,Medium,90.0,High Load,Consider adding a bus,2,Medium Demand
+R9,B102,2026-09-09,16:30,34,40,Medium,85.0,High Load,Consider adding a bus,2,Medium Demand
+R2,B109,2026-09-04,13:00,47,60,Low,78.33333333333333,Normal,No action required,1,High Demand
+R5,B115,2026-09-04,00:30,15,45,Medium,33.33333333333333,Low Load,Reduce bus frequency,0,Low Demand
+R1,B112,2026-09-11,09:00,62,50,High,124.0,Overloaded,Add additional bus immediately,1,High Demand
+R3,B118,2026-09-13,20:00,46,45,High,102.22222222222221,Overloaded,Add additional bus immediately,1,High Demand
+R10,B114,2026-09-14,21:00,24,60,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B115,2026-09-09,00:30,20,50,Low,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R1,B101,2026-09-04,03:00,43,60,Low,71.66666666666667,Normal,No action required,2,Medium Demand
+R8,B110,2026-09-10,09:30,39,40,High,97.5,High Load,Consider adding a bus,1,High Demand
+R1,B118,2026-09-05,06:00,32,50,Low,64.0,Normal,No action required,2,Medium Demand
+R7,B113,2026-09-06,20:00,49,45,Low,108.88888888888889,Overloaded,Add additional bus immediately,1,High Demand
+R9,B120,2026-09-07,07:00,44,50,High,88.0,High Load,Consider adding a bus,1,High Demand
+R2,B106,2026-09-07,09:30,43,45,Medium,95.55555555555556,High Load,Consider adding a bus,1,High Demand
+R8,B109,2026-09-11,17:00,46,60,Medium,76.66666666666667,Normal,No action required,2,Medium Demand
+R3,B104,2026-09-06,23:00,31,50,Low,62.0,Normal,No action required,2,Medium Demand
+R1,B108,2026-09-04,10:30,14,40,Low,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B112,2026-09-01,21:30,44,55,Low,80.0,High Load,Consider adding a bus,2,Medium Demand
+R3,B102,2026-09-09,14:00,33,50,Low,66.0,Normal,No action required,2,Medium Demand
+R7,B101,2026-09-06,12:30,42,40,Low,105.0,Overloaded,Add additional bus immediately,1,High Demand
+R4,B102,2026-09-11,01:00,13,45,Medium,28.888888888888886,Low Load,Reduce bus frequency,0,Low Demand
+R7,B110,2026-09-04,14:30,16,50,Medium,32.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B117,2026-09-06,15:00,15,40,Low,37.5,Low Load,Reduce bus frequency,0,Low Demand
+R4,B104,2026-09-14,17:30,33,45,High,73.33333333333333,Normal,No action required,2,Medium Demand
+R5,B119,2026-09-09,16:00,13,40,Medium,32.5,Low Load,Reduce bus frequency,0,Low Demand
+R8,B120,2026-09-09,03:30,19,45,Medium,42.22222222222222,Low Load,Reduce bus frequency,0,Low Demand
+R8,B103,2026-09-08,10:30,50,60,High,83.33333333333334,High Load,Consider adding a bus,1,High Demand
+R3,B118,2026-09-03,21:30,20,40,Low,50.0,Normal,No action required,0,Low Demand
+R9,B112,2026-09-05,08:00,45,55,Low,81.81818181818183,High Load,Consider adding a bus,1,High Demand
+R1,B116,2026-09-13,03:30,39,55,Low,70.9090909090909,Normal,No action required,2,Medium Demand
+R4,B119,2026-09-12,19:30,45,45,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R9,B106,2026-09-12,13:00,21,40,Low,52.5,Normal,No action required,0,Low Demand
+R5,B118,2026-09-10,21:30,28,50,Low,56.00000000000001,Normal,No action required,2,Medium Demand
+R1,B120,2026-09-14,11:00,39,50,Low,78.0,Normal,No action required,2,Medium Demand
+R9,B113,2026-09-12,09:30,46,45,High,102.22222222222221,Overloaded,Add additional bus immediately,1,High Demand
+R7,B111,2026-09-03,06:30,17,40,Medium,42.5,Low Load,Reduce bus frequency,0,Low Demand
+R3,B106,2026-09-05,12:30,22,40,Low,55.00000000000001,Normal,No action required,0,Low Demand
+R7,B116,2026-09-14,12:30,30,60,Medium,50.0,Normal,No action required,0,Low Demand
+R6,B108,2026-09-02,17:30,63,60,Low,105.0,Overloaded,Add additional bus immediately,1,High Demand
+R2,B115,2026-09-08,22:00,27,40,Medium,67.5,Normal,No action required,2,Medium Demand
+R7,B112,2026-09-14,09:00,34,40,Medium,85.0,High Load,Consider adding a bus,2,Medium Demand
+R4,B117,2026-09-03,09:00,39,40,High,97.5,High Load,Consider adding a bus,1,High Demand
+R4,B107,2026-09-06,12:30,46,60,Medium,76.66666666666667,Normal,No action required,2,Medium Demand
+R2,B119,2026-09-11,00:00,24,50,Medium,48.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B106,2026-09-12,23:00,26,45,Low,57.77777777777777,Normal,No action required,2,Medium Demand
+R8,B112,2026-09-12,23:00,31,50,High,62.0,Normal,No action required,2,Medium Demand
+R6,B114,2026-09-08,03:00,33,55,Medium,60.0,Normal,No action required,2,Medium Demand
+R5,B112,2026-09-10,18:30,41,55,High,74.54545454545455,Normal,No action required,2,Medium Demand
+R1,B110,2026-09-01,13:30,55,60,Medium,91.66666666666666,High Load,Consider adding a bus,1,High Demand
+R4,B107,2026-09-01,16:30,43,50,Medium,86.0,High Load,Consider adding a bus,1,High Demand
+R5,B118,2026-09-13,02:00,35,60,Medium,58.333333333333336,Normal,No action required,2,Medium Demand
+R3,B105,2026-09-09,01:00,26,50,Medium,52.0,Normal,No action required,0,Low Demand
+R5,B110,2026-09-13,09:30,42,40,Medium,105.0,Overloaded,Add additional bus immediately,1,High Demand
+R8,B106,2026-09-13,12:30,12,55,Medium,21.818181818181817,Low Load,Reduce bus frequency,0,Low Demand
+R5,B102,2026-09-09,08:30,41,60,Low,68.33333333333333,Normal,No action required,2,Medium Demand
+R7,B114,2026-09-06,01:30,31,40,Medium,77.5,Normal,No action required,2,Medium Demand
+R1,B113,2026-09-07,17:30,34,40,High,85.0,High Load,Consider adding a bus,2,Medium Demand
+R4,B105,2026-09-09,14:30,27,40,High,67.5,Normal,No action required,2,Medium Demand
+R10,B117,2026-09-05,23:00,30,40,Low,75.0,Normal,No action required,2,Medium Demand
+R8,B119,2026-09-12,22:00,14,40,Low,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B114,2026-09-04,02:30,11,45,Low,24.444444444444443,Low Load,Reduce bus frequency,0,Low Demand
+R9,B120,2026-09-06,11:30,24,60,Low,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R7,B111,2026-09-03,03:00,33,60,Low,55.00000000000001,Normal,No action required,2,Medium Demand
+R6,B120,2026-09-07,17:30,36,40,Medium,90.0,High Load,Consider adding a bus,2,Medium Demand
+R8,B120,2026-09-10,15:00,34,45,Low,75.55555555555556,Normal,No action required,2,Medium Demand
+R2,B104,2026-09-06,09:30,47,40,High,117.5,Overloaded,Add additional bus immediately,1,High Demand
+R5,B101,2026-09-03,14:00,22,50,Low,44.0,Low Load,Reduce bus frequency,0,Low Demand
+R4,B107,2026-09-12,09:00,61,60,High,101.66666666666666,Overloaded,Add additional bus immediately,1,High Demand
+R10,B105,2026-09-09,06:00,28,40,Medium,70.0,Normal,No action required,2,Medium Demand
+R5,B107,2026-09-07,00:00,36,60,Low,60.0,Normal,No action required,2,Medium Demand
+R1,B103,2026-09-07,00:00,47,55,Medium,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R5,B113,2026-09-09,08:00,45,45,High,100.0,High Load,Consider adding a bus,1,High Demand
+R6,B116,2026-09-12,13:30,26,60,Low,43.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R1,B102,2026-09-12,12:30,27,45,Low,60.0,Normal,No action required,2,Medium Demand
+R3,B101,2026-09-08,17:30,54,50,Medium,108.0,Overloaded,Add additional bus immediately,1,High Demand
+R5,B102,2026-09-09,11:30,34,50,Medium,68.0,Normal,No action required,2,Medium Demand
+R1,B118,2026-09-06,00:30,43,50,Low,86.0,High Load,Consider adding a bus,1,High Demand
+R7,B117,2026-09-14,13:30,34,60,Medium,56.666666666666664,Normal,No action required,2,Medium Demand
+R10,B105,2026-09-07,21:00,23,55,High,41.81818181818181,Low Load,Reduce bus frequency,0,Low Demand
+R3,B119,2026-09-05,13:00,30,60,Medium,50.0,Normal,No action required,0,Low Demand
+R9,B105,2026-09-04,07:30,50,55,High,90.9090909090909,High Load,Consider adding a bus,1,High Demand
+R9,B104,2026-09-08,00:00,14,45,Medium,31.11111111111111,Low Load,Reduce bus frequency,0,Low Demand
+R1,B111,2026-09-10,00:00,45,55,Low,81.81818181818183,High Load,Consider adding a bus,1,High Demand
+R5,B105,2026-09-03,12:00,6,45,Low,13.333333333333334,Low Load,Reduce bus frequency,0,Low Demand
+R10,B120,2026-09-14,03:30,20,50,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R6,B103,2026-09-04,02:00,38,55,Medium,69.0909090909091,Normal,No action required,2,Medium Demand
+R6,B106,2026-09-11,17:00,43,55,High,78.18181818181819,Normal,No action required,2,Medium Demand
+R1,B109,2026-09-05,23:00,54,55,Medium,98.18181818181819,High Load,Consider adding a bus,1,High Demand
+R4,B103,2026-09-10,14:00,23,45,Medium,51.11111111111111,Normal,No action required,0,Low Demand
+R4,B114,2026-09-02,02:30,44,55,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R6,B113,2026-09-13,10:00,60,60,High,100.0,High Load,Consider adding a bus,1,High Demand
+R9,B104,2026-09-10,23:00,9,55,Medium,16.363636363636363,Low Load,Reduce bus frequency,0,Low Demand
+R4,B117,2026-09-09,16:00,13,60,High,21.666666666666668,Low Load,Reduce bus frequency,0,Low Demand
+R1,B107,2026-09-10,14:30,29,50,Low,57.99999999999999,Normal,No action required,2,Medium Demand
+R5,B115,2026-09-10,05:30,31,45,Low,68.88888888888889,Normal,No action required,2,Medium Demand
+R8,B115,2026-09-11,21:30,23,40,Low,57.49999999999999,Normal,No action required,0,Low Demand
+R9,B105,2026-09-10,01:00,6,55,Low,10.909090909090908,Low Load,Reduce bus frequency,0,Low Demand
+R4,B115,2026-09-06,13:30,27,40,Low,67.5,Normal,No action required,2,Medium Demand
+R3,B104,2026-09-03,15:30,32,40,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R9,B120,2026-09-09,07:00,33,45,High,73.33333333333333,Normal,No action required,2,Medium Demand
+R3,B111,2026-09-04,10:00,51,60,Medium,85.0,High Load,Consider adding a bus,1,High Demand
+R5,B110,2026-09-07,09:00,38,55,High,69.0909090909091,Normal,No action required,2,Medium Demand
+R3,B107,2026-09-14,12:00,10,40,Medium,25.0,Low Load,Reduce bus frequency,0,Low Demand
+R1,B120,2026-09-06,07:00,59,55,Medium,107.27272727272728,Overloaded,Add additional bus immediately,1,High Demand
+R8,B114,2026-09-02,22:00,16,55,Medium,29.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R9,B107,2026-09-05,04:00,22,40,Low,55.00000000000001,Normal,No action required,0,Low Demand
+R1,B105,2026-09-13,13:00,21,40,Medium,52.5,Normal,No action required,0,Low Demand
+R7,B106,2026-09-07,07:00,49,45,High,108.88888888888889,Overloaded,Add additional bus immediately,1,High Demand
+R10,B119,2026-09-05,00:00,41,60,High,68.33333333333333,Normal,No action required,2,Medium Demand
+R5,B111,2026-09-09,07:30,50,50,High,100.0,High Load,Consider adding a bus,1,High Demand
+R9,B103,2026-09-11,06:30,30,50,Low,60.0,Normal,No action required,2,Medium Demand
+R9,B107,2026-09-14,06:30,28,45,Low,62.22222222222222,Normal,No action required,2,Medium Demand
+R9,B103,2026-09-14,03:00,43,55,High,78.18181818181819,Normal,No action required,2,Medium Demand
+R6,B109,2026-09-13,11:30,32,60,High,53.333333333333336,Normal,No action required,2,Medium Demand
+R3,B120,2026-09-11,19:30,62,60,High,103.33333333333334,Overloaded,Add additional bus immediately,1,High Demand
+R10,B108,2026-09-05,08:30,36,50,Low,72.0,Normal,No action required,2,Medium Demand
+R2,B107,2026-09-10,01:30,23,60,Low,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R1,B107,2026-09-06,15:30,24,50,Medium,48.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B118,2026-09-01,08:30,37,50,Medium,74.0,Normal,No action required,2,Medium Demand
+R1,B106,2026-09-08,06:30,42,45,Medium,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R8,B116,2026-09-15,00:00,8,40,Low,20.0,Low Load,Reduce bus frequency,0,Low Demand
+R6,B115,2026-09-02,10:00,47,55,High,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R6,B118,2026-09-01,15:00,42,60,Low,70.0,Normal,No action required,2,Medium Demand
+R6,B103,2026-09-07,05:00,14,45,Medium,31.11111111111111,Low Load,Reduce bus frequency,0,Low Demand
+R7,B118,2026-09-13,09:30,43,45,High,95.55555555555556,High Load,Consider adding a bus,1,High Demand
+R5,B111,2026-09-07,00:30,23,40,Low,57.49999999999999,Normal,No action required,0,Low Demand
+R4,B112,2026-09-07,16:00,28,55,Low,50.90909090909091,Normal,No action required,0,Low Demand
+R4,B103,2026-09-12,00:30,33,55,Low,60.0,Normal,No action required,2,Medium Demand
+R9,B105,2026-09-08,11:30,24,45,High,53.333333333333336,Normal,No action required,0,Low Demand
+R3,B104,2026-09-04,01:00,20,60,Low,33.33333333333333,Low Load,Reduce bus frequency,0,Low Demand
+R7,B117,2026-09-01,07:30,36,40,Medium,90.0,High Load,Consider adding a bus,2,Medium Demand
+R6,B115,2026-09-03,10:00,35,40,High,87.5,High Load,Consider adding a bus,2,Medium Demand
+R5,B101,2026-09-07,21:00,20,60,Medium,33.33333333333333,Low Load,Reduce bus frequency,0,Low Demand
+R9,B111,2026-09-03,17:30,42,55,Medium,76.36363636363637,Normal,No action required,2,Medium Demand
+R2,B101,2026-09-13,04:00,21,60,Medium,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R3,B110,2026-09-06,10:30,33,60,Low,55.00000000000001,Normal,No action required,2,Medium Demand
+R6,B118,2026-09-02,07:00,50,55,Medium,90.9090909090909,High Load,Consider adding a bus,1,High Demand
+R1,B103,2026-09-09,14:00,37,55,Low,67.27272727272727,Normal,No action required,2,Medium Demand
+R10,B115,2026-09-08,19:30,63,60,Medium,105.0,Overloaded,Add additional bus immediately,1,High Demand
+R9,B103,2026-09-13,08:00,52,55,Medium,94.54545454545455,High Load,Consider adding a bus,1,High Demand
+R8,B104,2026-09-07,20:00,54,55,High,98.18181818181819,High Load,Consider adding a bus,1,High Demand
+R4,B105,2026-09-06,17:30,53,60,High,88.33333333333333,High Load,Consider adding a bus,1,High Demand
+R6,B111,2026-09-11,15:00,27,55,Low,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R3,B110,2026-09-14,02:30,34,50,Medium,68.0,Normal,No action required,2,Medium Demand
+R7,B104,2026-09-13,02:00,37,50,Medium,74.0,Normal,No action required,2,Medium Demand
+R7,B108,2026-09-06,10:00,72,60,High,120.0,Overloaded,Add additional bus immediately,1,High Demand
+R7,B103,2026-09-05,16:00,35,50,Medium,70.0,Normal,No action required,2,Medium Demand
+R6,B118,2026-09-04,22:00,10,45,Medium,22.22222222222222,Low Load,Reduce bus frequency,0,Low Demand
+R10,B116,2026-09-13,20:30,20,40,Medium,50.0,Normal,No action required,0,Low Demand
+R5,B113,2026-09-13,23:30,29,40,Low,72.5,Normal,No action required,2,Medium Demand
+R7,B111,2026-09-14,23:30,24,55,Medium,43.63636363636363,Low Load,Reduce bus frequency,0,Low Demand
+R1,B105,2026-09-10,21:00,20,45,Medium,44.44444444444444,Low Load,Reduce bus frequency,0,Low Demand
+R10,B115,2026-09-05,14:30,14,45,Medium,31.11111111111111,Low Load,Reduce bus frequency,0,Low Demand
+R5,B114,2026-09-03,03:00,26,50,Medium,52.0,Normal,No action required,0,Low Demand
+R9,B113,2026-09-07,12:00,33,45,Low,73.33333333333333,Normal,No action required,2,Medium Demand
+R9,B112,2026-09-07,05:30,14,40,Medium,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R10,B113,2026-09-09,09:00,45,50,High,90.0,High Load,Consider adding a bus,1,High Demand
+R3,B107,2026-09-09,10:00,58,60,High,96.66666666666667,High Load,Consider adding a bus,1,High Demand
+R7,B105,2026-09-03,21:30,23,50,Low,46.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B114,2026-09-03,00:30,33,45,Low,73.33333333333333,Normal,No action required,2,Medium Demand
+R8,B120,2026-09-14,12:30,27,55,Low,49.09090909090909,Low Load,Reduce bus frequency,0,Low Demand
+R6,B108,2026-09-10,06:30,26,45,Medium,57.77777777777777,Normal,No action required,2,Medium Demand
+R4,B117,2026-09-09,23:30,31,50,High,62.0,Normal,No action required,2,Medium Demand
+R8,B112,2026-09-13,14:30,27,40,Low,67.5,Normal,No action required,2,Medium Demand
+R3,B117,2026-09-11,03:30,30,50,Medium,60.0,Normal,No action required,2,Medium Demand
+R2,B118,2026-09-07,21:00,46,60,Medium,76.66666666666667,Normal,No action required,2,Medium Demand
+R9,B101,2026-09-10,21:30,26,55,Medium,47.27272727272727,Low Load,Reduce bus frequency,0,Low Demand
+R5,B110,2026-09-01,23:30,22,45,Medium,48.888888888888886,Low Load,Reduce bus frequency,0,Low Demand
+R5,B119,2026-09-02,12:30,23,50,Medium,46.0,Low Load,Reduce bus frequency,0,Low Demand
+R5,B120,2026-09-07,08:00,26,40,High,65.0,Normal,No action required,2,Medium Demand
+R2,B109,2026-09-04,01:00,21,50,Medium,42.0,Low Load,Reduce bus frequency,0,Low Demand
+R10,B106,2026-09-04,10:30,33,60,Medium,55.00000000000001,Normal,No action required,2,Medium Demand
+R3,B109,2026-09-11,13:30,38,45,Low,84.44444444444444,High Load,Consider adding a bus,2,Medium Demand
+R3,B120,2026-09-11,19:00,45,45,High,100.0,High Load,Consider adding a bus,1,High Demand
+R7,B108,2026-09-14,19:30,58,55,Medium,105.45454545454544,Overloaded,Add additional bus immediately,1,High Demand
+R5,B104,2026-09-04,19:00,34,40,High,85.0,High Load,Consider adding a bus,2,Medium Demand
+R8,B118,2026-09-09,07:30,39,45,High,86.66666666666667,High Load,Consider adding a bus,2,Medium Demand
+R7,B101,2026-09-10,19:00,50,50,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R9,B102,2026-09-12,13:30,25,40,Medium,62.5,Normal,No action required,2,Medium Demand
+R5,B111,2026-09-06,22:00,20,50,Medium,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R10,B113,2026-09-06,09:00,54,55,High,98.18181818181819,High Load,Consider adding a bus,1,High Demand
+R3,B111,2026-09-01,10:30,52,60,Medium,86.66666666666667,High Load,Consider adding a bus,1,High Demand
+R1,B114,2026-09-12,10:00,40,40,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R4,B102,2026-09-14,10:30,35,40,Low,87.5,High Load,Consider adding a bus,2,Medium Demand
+R4,B120,2026-09-03,18:30,35,40,Low,87.5,High Load,Consider adding a bus,2,Medium Demand
+R10,B106,2026-09-05,03:30,25,40,Low,62.5,Normal,No action required,2,Medium Demand
+R2,B115,2026-09-10,08:00,50,50,High,100.0,High Load,Consider adding a bus,1,High Demand
+R2,B109,2026-09-09,09:00,44,40,Medium,110.00000000000001,Overloaded,Add additional bus immediately,1,High Demand
+R5,B109,2026-09-10,15:00,36,45,Low,80.0,High Load,Consider adding a bus,2,Medium Demand
+R8,B104,2026-09-12,18:00,39,45,High,86.66666666666667,High Load,Consider adding a bus,2,Medium Demand
+R2,B115,2026-09-03,10:00,36,50,Low,72.0,Normal,No action required,2,Medium Demand
+R1,B116,2026-09-15,03:30,35,45,Medium,77.77777777777779,Normal,No action required,2,Medium Demand
+R7,B109,2026-09-08,06:00,23,45,High,51.11111111111111,Normal,No action required,0,Low Demand
+R8,B116,2026-09-09,20:00,57,55,High,103.63636363636364,Overloaded,Add additional bus immediately,1,High Demand
+R2,B118,2026-09-01,07:00,46,45,Medium,102.22222222222221,Overloaded,Add additional bus immediately,1,High Demand
+R9,B112,2026-09-07,16:30,27,50,Low,54.0,Normal,No action required,0,Low Demand
+R2,B112,2026-09-08,11:30,32,60,Low,53.333333333333336,Normal,No action required,2,Medium Demand
+R3,B118,2026-09-09,10:00,32,40,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R7,B104,2026-09-11,14:30,35,50,Low,70.0,Normal,No action required,2,Medium Demand
+R4,B101,2026-09-06,07:30,42,60,High,70.0,Normal,No action required,2,Medium Demand
+R9,B110,2026-09-12,14:30,38,55,High,69.0909090909091,Normal,No action required,2,Medium Demand
+R6,B102,2026-09-02,03:00,19,50,Low,38.0,Low Load,Reduce bus frequency,0,Low Demand
+R9,B115,2026-09-04,09:30,50,60,High,83.33333333333334,High Load,Consider adding a bus,1,High Demand
+R8,B101,2026-09-14,10:00,58,55,Low,105.45454545454544,Overloaded,Add additional bus immediately,1,High Demand
+R3,B101,2026-09-14,17:00,42,45,Low,93.33333333333333,High Load,Consider adding a bus,1,High Demand
+R3,B119,2026-09-03,11:30,24,40,Low,60.0,Normal,No action required,0,Low Demand
+R10,B108,2026-09-05,13:00,34,40,Low,85.0,High Load,Consider adding a bus,2,Medium Demand
+R6,B104,2026-09-12,20:30,45,60,Low,75.0,Normal,No action required,2,Medium Demand
+R4,B102,2026-09-04,22:00,21,60,Low,35.0,Low Load,Reduce bus frequency,0,Low Demand
+R6,B118,2026-09-10,14:00,29,45,Low,64.44444444444444,Normal,No action required,2,Medium Demand
+R3,B104,2026-09-09,06:00,20,60,Medium,33.33333333333333,Low Load,Reduce bus frequency,0,Low Demand
+R3,B103,2026-09-07,06:30,49,60,Low,81.66666666666667,High Load,Consider adding a bus,1,High Demand
+R8,B105,2026-09-04,06:30,19,45,Medium,42.22222222222222,Low Load,Reduce bus frequency,0,Low Demand
+R10,B102,2026-09-05,01:30,41,60,Medium,68.33333333333333,Normal,No action required,2,Medium Demand
+R2,B110,2026-09-10,03:30,22,50,Low,44.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B120,2026-09-12,17:30,48,50,High,96.0,High Load,Consider adding a bus,1,High Demand
+R4,B109,2026-09-05,08:30,34,40,Medium,85.0,High Load,Consider adding a bus,2,Medium Demand
+R8,B106,2026-09-02,03:30,16,45,Low,35.55555555555556,Low Load,Reduce bus frequency,0,Low Demand
+R4,B114,2026-09-08,08:30,54,50,High,108.0,Overloaded,Add additional bus immediately,1,High Demand
+R1,B118,2026-09-04,14:00,28,45,Medium,62.22222222222222,Normal,No action required,2,Medium Demand
+R2,B103,2026-09-10,17:00,40,45,High,88.88888888888889,High Load,Consider adding a bus,2,Medium Demand
+R6,B108,2026-09-08,04:00,20,40,Low,50.0,Normal,No action required,0,Low Demand
+R7,B107,2026-09-05,22:00,40,55,Low,72.72727272727273,Normal,No action required,2,Medium Demand
+R4,B120,2026-09-05,00:30,19,55,Low,34.54545454545455,Low Load,Reduce bus frequency,0,Low Demand
+R4,B112,2026-09-05,13:00,11,50,Low,22.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B115,2026-09-10,03:30,24,55,Low,43.63636363636363,Low Load,Reduce bus frequency,0,Low Demand
+R5,B120,2026-09-14,20:00,44,45,High,97.77777777777777,High Load,Consider adding a bus,1,High Demand
+R4,B103,2026-09-12,08:30,61,55,High,110.9090909090909,Overloaded,Add additional bus immediately,1,High Demand
+R10,B116,2026-09-07,04:00,29,55,Low,52.72727272727272,Normal,No action required,2,Medium Demand
+R7,B119,2026-09-13,20:00,52,45,High,115.55555555555554,Overloaded,Add additional bus immediately,1,High Demand
+R1,B114,2026-09-02,02:00,28,40,High,70.0,Normal,No action required,2,Medium Demand
+R7,B116,2026-09-10,21:00,15,40,Low,37.5,Low Load,Reduce bus frequency,0,Low Demand
+R1,B114,2026-09-04,01:00,22,45,Low,48.888888888888886,Low Load,Reduce bus frequency,0,Low Demand
+R5,B106,2026-09-13,09:30,36,55,High,65.45454545454545,Normal,No action required,2,Medium Demand
+R8,B115,2026-09-09,21:00,32,45,Low,71.11111111111111,Normal,No action required,2,Medium Demand
+R1,B103,2026-09-08,07:30,47,55,High,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R5,B120,2026-09-13,12:00,46,60,Medium,76.66666666666667,Normal,No action required,2,Medium Demand
+R1,B117,2026-09-02,07:30,50,50,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R10,B102,2026-09-09,01:00,34,50,Low,68.0,Normal,No action required,2,Medium Demand
+R4,B105,2026-09-06,07:30,52,50,High,104.0,Overloaded,Add additional bus immediately,1,High Demand
+R10,B107,2026-09-08,01:30,17,45,Low,37.77777777777778,Low Load,Reduce bus frequency,0,Low Demand
+R2,B112,2026-09-10,21:00,26,50,Low,52.0,Normal,No action required,0,Low Demand
+R2,B116,2026-09-12,14:00,28,60,Medium,46.666666666666664,Low Load,Reduce bus frequency,0,Low Demand
+R2,B107,2026-09-03,02:00,47,55,Low,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R5,B103,2026-09-04,17:30,32,40,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R9,B101,2026-09-10,02:30,26,50,High,52.0,Normal,No action required,0,Low Demand
+R3,B116,2026-09-10,04:30,36,50,Low,72.0,Normal,No action required,2,Medium Demand
+R4,B117,2026-09-10,00:00,33,50,Medium,66.0,Normal,No action required,2,Medium Demand
+R6,B116,2026-09-12,12:30,30,60,Medium,50.0,Normal,No action required,0,Low Demand
+R5,B106,2026-09-06,01:30,41,50,Low,82.0,High Load,Consider adding a bus,2,Medium Demand
+R1,B105,2026-09-07,07:00,47,50,High,94.0,High Load,Consider adding a bus,1,High Demand
+R5,B106,2026-09-04,12:00,10,45,Low,22.22222222222222,Low Load,Reduce bus frequency,0,Low Demand
+R6,B119,2026-09-10,15:00,15,45,Low,33.33333333333333,Low Load,Reduce bus frequency,0,Low Demand
+R6,B112,2026-09-09,04:00,37,45,Low,82.22222222222221,High Load,Consider adding a bus,2,Medium Demand
+R9,B110,2026-09-01,18:00,37,40,High,92.5,High Load,Consider adding a bus,2,Medium Demand
+R6,B105,2026-09-12,21:00,21,40,High,52.5,Normal,No action required,0,Low Demand
+R5,B116,2026-09-13,11:00,33,50,Medium,66.0,Normal,No action required,2,Medium Demand
+R6,B104,2026-09-02,02:00,25,55,Low,45.45454545454545,Low Load,Reduce bus frequency,0,Low Demand
+R5,B101,2026-09-14,09:30,48,55,High,87.27272727272727,High Load,Consider adding a bus,1,High Demand
+R4,B119,2026-09-05,23:00,43,60,Medium,71.66666666666667,Normal,No action required,2,Medium Demand
+R4,B101,2026-09-12,17:00,48,40,High,120.0,Overloaded,Add additional bus immediately,1,High Demand
+R7,B107,2026-09-08,00:00,33,55,Medium,60.0,Normal,No action required,2,Medium Demand
+R1,B112,2026-09-04,09:00,53,55,High,96.36363636363636,High Load,Consider adding a bus,1,High Demand
+R6,B112,2026-09-10,17:30,37,50,High,74.0,Normal,No action required,2,Medium Demand
+R8,B114,2026-09-07,09:00,60,55,Medium,109.09090909090908,Overloaded,Add additional bus immediately,1,High Demand
+R7,B105,2026-09-13,23:30,24,60,Low,40.0,Low Load,Reduce bus frequency,0,Low Demand
+R8,B117,2026-09-02,15:00,30,50,High,60.0,Normal,No action required,2,Medium Demand
+R5,B114,2026-09-13,02:00,25,45,Low,55.55555555555556,Normal,No action required,0,Low Demand
+R3,B107,2026-09-09,08:30,46,45,Medium,102.22222222222221,Overloaded,Add additional bus immediately,1,High Demand
+R10,B110,2026-09-13,03:30,19,55,Medium,34.54545454545455,Low Load,Reduce bus frequency,0,Low Demand
+R1,B105,2026-09-07,15:00,37,50,High,74.0,Normal,No action required,2,Medium Demand
+R5,B114,2026-09-11,17:00,43,45,High,95.55555555555556,High Load,Consider adding a bus,1,High Demand
+R1,B104,2026-09-11,17:30,40,50,High,80.0,High Load,Consider adding a bus,2,Medium Demand
+R10,B114,2026-09-14,15:00,38,50,Medium,76.0,Normal,No action required,2,Medium Demand
+R2,B112,2026-09-13,12:00,23,60,Low,38.333333333333336,Low Load,Reduce bus frequency,0,Low Demand
+R8,B105,2026-09-04,17:00,42,50,Low,84.0,High Load,Consider adding a bus,2,Medium Demand
+R6,B102,2026-09-07,10:30,35,50,Medium,70.0,Normal,No action required,2,Medium Demand
+R3,B104,2026-09-04,19:00,70,60,High,116.66666666666667,Overloaded,Add additional bus immediately,1,High Demand
+R5,B109,2026-09-03,06:30,22,50,Medium,44.0,Low Load,Reduce bus frequency,0,Low Demand
+R5,B112,2026-09-10,00:00,42,55,Low,76.36363636363637,Normal,No action required,2,Medium Demand
+R2,B107,2026-09-11,23:00,20,45,Low,44.44444444444444,Low Load,Reduce bus frequency,0,Low Demand
+R9,B118,2026-09-03,15:30,42,60,Low,70.0,Normal,No action required,2,Medium Demand
+R2,B105,2026-09-11,11:00,29,40,Low,72.5,Normal,No action required,2,Medium Demand
+R10,B117,2026-09-04,21:30,16,50,Medium,32.0,Low Load,Reduce bus frequency,0,Low Demand
+R2,B108,2026-09-04,06:00,22,45,Medium,48.888888888888886,Low Load,Reduce bus frequency,0,Low Demand
+R7,B104,2026-09-01,15:00,40,40,Medium,100.0,High Load,Consider adding a bus,1,High Demand
+R1,B107,2026-09-01,22:00,27,40,Medium,67.5,Normal,No action required,2,Medium Demand
+R5,B102,2026-09-07,15:30,27,40,Medium,67.5,Normal,No action required,2,Medium Demand
+R2,B120,2026-09-13,18:00,34,45,High,75.55555555555556,Normal,No action required,2,Medium Demand
+R5,B119,2026-09-08,17:30,45,50,Medium,90.0,High Load,Consider adding a bus,1,High Demand
+R10,B108,2026-09-13,09:00,64,60,Low,106.66666666666667,Overloaded,Add additional bus immediately,1,High Demand
+R4,B110,2026-09-12,16:30,27,45,Low,60.0,Normal,No action required,2,Medium Demand
+R4,B117,2026-09-09,01:00,19,55,Medium,34.54545454545455,Low Load,Reduce bus frequency,0,Low Demand
+R6,B113,2026-09-05,19:00,47,55,High,85.45454545454545,High Load,Consider adding a bus,1,High Demand
+R6,B104,2026-09-03,13:30,29,55,Medium,52.72727272727272,Normal,No action required,2,Medium Demand
+R1,B103,2026-09-11,18:00,47,50,Medium,94.0,High Load,Consider adding a bus,1,High Demand
+R10,B110,2026-09-06,01:00,25,55,Medium,45.45454545454545,Low Load,Reduce bus frequency,0,Low Demand
+R2,B116,2026-09-05,01:00,31,50,Low,62.0,Normal,No action required,2,Medium Demand
+R2,B113,2026-09-12,09:00,42,55,High,76.36363636363637,Normal,No action required,2,Medium Demand
+R10,B104,2026-09-02,14:30,19,45,Low,42.22222222222222,Low Load,Reduce bus frequency,0,Low Demand
+R4,B120,2026-09-03,20:00,44,55,Medium,80.0,High Load,Consider adding a bus,2,Medium Demand
+R10,B119,2026-09-14,23:00,23,50,High,46.0,Low Load,Reduce bus frequency,0,Low Demand
